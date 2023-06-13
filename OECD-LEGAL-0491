@@ -11,12 +11,16 @@ HAVING REGARD to the technical standards developed by other fora, such as the Eu
 欧州標準化委員会（CEN）、欧州電気通信標準化機構（ETSI）、国際標準化機構（ISO）、国際電気標準会議（IEC）、米国国立標準技術研究所（NIST）、World Wide Web Consortium（W3C）、ならびに欧州委員会、金融活動作業部会（FATF）、国連国際貿易法委員会（UNCITRAL）および世界銀行など他の団体において開発される技術標準に鑑み;
 
 RECOGNISING that effective, usable, secure and trusted digital identity systems can enhance privacy, facilitate inclusion and simplify access to a wide range of services, and thereby contribute to social and economic value;
+効果的で、使用可能で、安全で、信頼できるデジタル ID システムは、プライバシーを強化 し、包摂を促進し、幅広いサービスへのアクセスを簡素化し、それによって社会的および経済的価 値に貢献することができることを認識し;
 
 RECOGNISING that digital identity can transform the way service providers operate and interact with their users, both in-person and online, by providing an optional alternative to physical credentials as part of a seamless omni-channel experience;
+デジタル ID は、シームレスなオムニチャネル体験の一部として物理的クレデンシャルに代わるオプション を提供することにより、対面およびオンラインの両方で、サービスプロバイダの運営方法およびユーザーと の対話方法を変革できることを認識し; 
 
 RECOGNISING that the governance, design and implementation of digital identity systems should be rooted in democratic values and respect for human rights;
+デジタル ID システムのガバナンス、設計、および実装は、民主的価値および人権の尊重に根ざした ものでなければならないことを認識し；
 
 RECOGNISING the need to ensure the accessibility, affordability, usability, and equity of digital identity solutions for all, continually promoting the inclusion of vulnerable groups and minorities;
+デジタルアイデンティティソリューションのすべての人に対するアクセシビリティ、価格が手頃であること、ユーザビリティ、公平性の確保の必要性と、脆弱な集団とマイノリティの包摂を継続的に推進することの重要性を認識し;
 
 RECOGNISING that the rapidly evolving technology landscape creates the need for governments to regularly evaluate and assess the opportunities and risks of new technologies and architectural paradigms, including cost-benefit analyses as well as environmental, privacy, data protection, ethical and human rights impact assessments, complemented by open and transparent processes for mitigating the harms of any potential unintended consequences;
 
@@ -43,8 +47,10 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
 On the proposal of the Public Governance Committee:
 
 I.AGREES that, for the purposes of the present Recommendation, the following definitions are used:
+I. 本勧告の目的上、以下の定義を使用することに合意する：
 
 ●Attribute refers to a verified feature, quality or characteristic ascribed to a user, for example biometric data, name, date of birth, place of birth, uniqueness identifier (e.g. personal ID number, social security number, company registration number, and address, in electronic form;
+* 属性とは、ユーザーに付与された検証済みの特徴、品質または特性をいい、例えば、生体情報、氏名、生年月日、出生地、一意性識別子（個人ID番号、社会保障番号、会社登録番号、住所など、電子形式での情報）をいう；
 
 ●Authentication refers to a function for establishing the validity and assurance of a claimed identity of a user, device or another entity in an information or communications system;
 
@@ -72,7 +78,7 @@ I.AGREES that, for the purposes of the present Recommendation, the following def
 
 ●User refers to a natural person or a legal person, or to a natural person representing a natural or legal person. In cross-border scenarios, a user should be understood as a natural or legal person from another jurisdiction.
 
-Developing User-Centred and Inclusive Digital Identity
+# Developing User-Centred and Inclusive Digital Identity
 
 II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:
 
