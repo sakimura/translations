@@ -60,8 +60,6 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 
 **RECOGNISING** that the different approaches taken by Adherents create a need for interoperability of secure and trusted digital identity systems across borders, which calls for international collaboration and the development, adoption, alignment or mapping of the use of technical standards to ensure that all users are always able to access essential services;
 
-**RECOGNISING** that the different approaches taken by Adherents create a need for interoperability of secure and trusted digital identity systems across borders, which calls for international collaboration and the development, adoption, alignment or mapping of the use of technical standards to ensure that all users are always able to access essential services;
-
 所属国が取るさまざまなアプローチが、国境を越えた安全で信頼性のあるデジタルアイデンティティシステムの相互運用性の必要性を生み出し、これが国際的な協力と、全てのユーザーが常に必要なサービスにアクセスできるように技術標準の使用の開発、採用、整合、または対応を求めることを**認識し**;
 
 **RECOGNISING** the value of trust services such as electronic signatures, electronic time-stamps, and electronic seals to support the usability of digital identity solutions, including across borders, based on technical standards and regulatory frameworks, such as international agreements;
