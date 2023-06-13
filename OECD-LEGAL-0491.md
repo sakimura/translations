@@ -37,15 +37,21 @@ RECOGNISING that stakeholder engagement and consultation is essential to foster 
 
 RECOGNISING that Members and non-Members having adhered to this Recommendation (hereafter the “Adherents”) have differing approaches to the development and refinement of their digital identity systems with different roles and contributions from the public and private sectors, varying underlying identity management systems (centralised, federated and decentralised) and links with civil registry systems, legacy infrastructure, levels of digital maturity, existing digital identity adoption, trust between actors of the digital identity ecosystem, and public discourse about the role and nature of digital identity;
 
-RECOGNISING that the different approaches taken by Adherents create a need for interoperability of secure and trusted digital identity systems across borders, which calls for international collaboration and the development, adoption, alignment or mapping of the use of technical standards to ensure that all users are always able to access essential services;
+<1--RECOGNISING that the different approaches taken by Adherents create a need for interoperability of secure and trusted digital identity systems across borders, which calls for international collaboration and the development, adoption, alignment or mapping of the use of technical standards to ensure that all users are always able to access essential services;-->
+所属国が取るさまざまなアプローチが、国境を越えた安全で信頼性のあるデジタルアイデンティティシステムの相互運用性の必要性を生み出し、これが国際的な協力と、全てのユーザーが常に必要なサービスにアクセスできるように技術標準の使用の開発、採用、整合、またはマッピングを求めることを認識し;
 
-RECOGNISING the value of trust services such as electronic signatures, electronic time-stamps, and electronic seals to support the usability of digital identity solutions, including across borders, based on technical standards and regulatory frameworks, such as international agreements;
+<!--RECOGNISING the value of trust services such as electronic signatures, electronic time-stamps, and electronic seals to support the usability of digital identity solutions, including across borders, based on technical standards and regulatory frameworks, such as international agreements;-->
+電子署名、電子タイムスタンプ、電子シールなどのトラストサービスが、国際協定などの技術標準や規制の枠組みに基づき、国境を越えたデジタルアイデンティティソリューションの利便性を支援する価値を認識し;
 
-RECOGNISING that while the principles relating to the governance of digital identity for natural and legal persons should be the same, the use cases, user experience, challenges, and mechanisms for implementation will differ, including those relating to privacy and other potential issues;
+<!--RECOGNISING that while the principles relating to the governance of digital identity for natural and legal persons should be the same, the use cases, user experience, challenges, and mechanisms for implementation will differ, including those relating to privacy and other potential issues;-->
+自然人と法人に対するデジタルアイデンティティのガバナンスに関連する原則は同じであるべきだが、利用ケース、ユーザー体験、課題、実装のメカニズムは異なり、プライバシーやその他の潜在的な問題に関連するものも含まれることを認識し;
 
-RECOGNISING the relevance of international development co-operation for supporting the governance and funding of digital identity systems in low- and middle-income countries;
+<!--RECOGNISING the relevance of international development co-operation for supporting the governance and funding of digital identity systems in low- and middle-income countries;-->
+低所得・中所得国におけるデジタルアイデンティティシステムのガバナンスと資金提供を支援するための国際開発協力の必要性を認識し;
 
-CONSIDERING that the governance of digital identity is a shared responsibility across branches and levels of government, and that therefore this Recommendation is relevant to all of them, in accordance with their national and institutional frameworks, some of which also provide for responsibilities of the private sector.
+<!--CONSIDERING that the governance of digital identity is a shared responsibility across branches and levels of government, and that therefore this Recommendation is relevant to all of them, in accordance with their national and institutional frameworks, some of which also provide for responsibilities of the private sector.-->
+デジタルアイデンティティのガバナンスは、政府の各部門およびレベルでの共有責任であり、そのためこの推奨事項はそれぞれの国家や機関の枠組みに従って、全てに関連しており、その中には民間部門の責任を提供するものも含まれることを考慮し。
+
 
 <!-- On the proposal of the Public Governance Committee:-->
 公共ガバナンス委員会のプロポーザルに関して: 
