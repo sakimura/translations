@@ -87,7 +87,7 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
 </p>
 
 <!-- ## II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:-->
-## II. 支持国は、ユーザーおよびサービスプロバイダのニーズに対応するデジタル ID システムを 設計および実装することを推奨する。この目的のために、支持国は以下を行う：
+## II. 採択者は、ユーザーおよびサービスプロバイダのニーズに対応するデジタル ID システムを 設計および実装することを推奨する。この目的のために、採択者は以下を行う：
 
 <!-- 1. Take into account the domestic context, including digital maturity and existing digital identity developments, when considering the design, implementation or iteration of a digital identity system;-->
 1. デジタル ID システムの設計、実装または反復を検討する際に、デジタル成熟度や既存のデジタル ID 開発を含む国内のコンテキストを考慮する；
