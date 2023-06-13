@@ -88,7 +88,7 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
 </p>
 
 <!-- ## II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:-->
-## II. 採択者は、ユーザーおよびサービスプロバイダのニーズに対応するデジタル ID システムを 設計および実装することを推奨する。この目的のために、採択者は以下を行う：
+## II. 所属国は、ユーザーおよびサービスプロバイダのニーズに対応するデジタル ID システムを 設計および実装することを推奨する。この目的のために、所属国は以下を行う：
 
 <!-- 1. Take into account the domestic context, including digital maturity and existing digital identity developments, when considering the design, implementation or iteration of a digital identity system;-->
 1. デジタル ID システムの設計、実装または反復を検討する際に、デジタル成熟度や既存のデジタル ID 開発を含む国内のコンテキストを考慮する；
@@ -153,25 +153,30 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
           デジタルアイデンティティのガバナンスの強化
 </p>
 
-## IV.RECOMMENDS that Adherents take a strategic approach to digital identity and define roles and responsibilities across the digital identity ecosystem. To this effect, Adherents should:
+## <!--IV.RECOMMENDS that Adherents take a strategic approach to digital identity and define roles and responsibilities across the digital identity ecosystem. To this effect, Adherents should:-->IV. 所属国はデジタルアイデンティティに対する戦略的アプローチを取り、デジタルアイデンティティエコシステム全体での役割と責任を定義することを推奨する。そのために、所属国は以下の事項を行うのがよい。
 
-1. Set out a long-term vision for realising the benefits and mitigating the risks of digital identity for the public sector and wider economy either in a dedicated strategy or as part of a broader strategy;
+1. <!--Set out a long-term vision for realising the benefits and mitigating the risks of digital identity for the public sector and wider economy either in a dedicated strategy or as part of a broader strategy;-->
+専用の戦略またはより広範な戦略の一部として、公共セクターや広範な経済におけるデジタルアイデンティティの利益を実現し、リスクを軽減するための長期的なビジョンを提示する;
 
-2. Secure national strategic leadership and delivery oversight and define and communicate domestic roles and responsibilities within the digital identity ecosystem;
+2. <!--Secure national strategic leadership and delivery oversight and define and communicate domestic roles and responsibilities within the digital identity ecosystem;-->
+国家的な戦略的リーダーシップと実行監督を確保し、デジタルアイデンティティエコシステム内での国内の役割と責任を定義し、伝達する;
 
-3. Encourage co-operation and co-ordination between government agencies and competent authorities at all levels of government, as relevant and applicable;
+3. <!--Encourage co-operation and co-ordination between government agencies and competent authorities at all levels of government, as relevant and applicable;-->
+必要かつ適用可能な場合、全ての政府レベルの政府機関と管轄当局間での協力と調整を促進する;
 
-4. Take steps to ensure that government agencies, and competent authorities at all levels of government, as well as other relevant actors, as applicable, take responsibility for stewarding, monitoring, and protecting the digital identity ecosystem, including by safeguarding the rights of users, and prioritising inclusion;
+4. <!--Take steps to ensure that government agencies, and competent authorities at all levels of government, as well as other relevant actors, as applicable, take responsibility for stewarding, monitoring, and protecting the digital identity ecosystem, including by safeguarding the rights of users, and prioritising inclusion;-->
+全ての政府レベルの政府機関、管轄当局、および適用可能な場合はその他の関連する主体が、ユーザーの権利を保護し、包摂を優先することを含め、デジタルアイデンティティエコシステムの管理、監視、保護の責任を負うようにする措置を講じる;
 
-5. Promote collaboration between the public and private sectors by supporting the development of a healthy market for digital identity solutions, as appropriate, that encourages innovation and competition and explores the potential value of alternative models and technologies;
+5. Promote collaboration between the public and private sectors by supporting the development of a healthy market for digital identity solutions, as appropriate, that encourages innovation and competition and explores the potential value of alternative models and technologies;公共セクターと民間部門間の協力を促進し、イノベーションと競争を奨励し、代替モデルや技術の潜在的な価値を探求するデジタルアイデンティティソリューションの健全な市場の開発を支援する;
 
-6. Establish a national or regional trust framework, or where applicable, align with relevant regional trust frameworks, to set out common requirements, including cybersecurity requirements, against different Levels of Assurance (LoA) for digital identity solutions that digital identity solution providers can follow to facilitate trust within the digital identity ecosystem;
+6. Establish a national or regional trust framework, or where applicable, align with relevant regional trust frameworks, to set out common requirements, including cybersecurity requirements, against different Levels of Assurance (LoA) for digital identity solutions that digital identity solution providers can follow to facilitate trust within the digital identity ecosystem;国家または地域の信頼フレームワークを設立し、または適用可能な場合、関連する地域信頼フレームワークに合わせることで、デジタルアイデンティティソリューション提供者がデジタルアイデンティティエコシステム内での信頼を促進するために、サイバーセキュリティ要件を含む共通の要件を設定する;
 
-7. Establish clear responsibilities for the regulation and oversight of digital identity systems, such that the rights of users and affected parties are protected and that adequate and effective mechanisms for dispute resolution, redress and recovery are in place;
+7. Establish clear responsibilities for the regulation and oversight of digital identity systems, such that the rights of users and affected parties are protected and that adequate and effective mechanisms for dispute resolution, redress and recovery are in place;ユーザーと影響を受ける当事者の権利が保護され、適切で効果的な紛争解決、救済、復旧のメカニズムが整備されているように、デジタルアイデンティティシステムの規制と監督に対する明確な責任を確立する;
 
-8. Promote a sustainable and resilient digital identity system by taking into account the environmental impact of technology choices, and the need for ongoing investment to reflect the costs for all relevant actors throughout the digital identity lifecycle;
+8. Promote a sustainable and resilient digital identity system by taking into account the environmental impact of technology choices, and the need for ongoing investment to reflect the costs for all relevant actors throughout the digital identity lifecycle;技術選択の環境への影響を考慮し、デジタルアイデンティティのライフサイクル全体で関連するすべての主体のコストを反映するための継続的な投資の必要性を考慮することで、持続可能でレジリエントなデジタルアイデンティティシステムを推進する;
 
-9. Oversee the digital identity system to adapt to new needs, threats, risks and opportunities.
+9. Oversee the digital identity system to adapt to new needs, threats, risks and opportunities.新たなニーズ、脅威、リスク、機会に対応するためにデジタルアイデンティティシステムを監督する。
+
 
 ## V.RECOMMENDS that Adherents protect privacy and prioritise security to ensure trust in digital identity systems. To this effect, Adherents should:
 
