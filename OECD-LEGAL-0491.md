@@ -6,11 +6,11 @@
 
 **HAVING REGARD** to Article 5 b) of the Convention on the Organisation for Economic Co-operation and Development of 14 December 1960;
 
-1960年12月14日の経済協力開発機構に関する条約第5条b)に鑑み; 
+1960年12月14日の経済協力開発機構に関する条約第5条b)に**鑑み**; 
 
 **HAVING REGARD** to the standards developed by the OECD in the area of electronic authentication, regulatory policy and governance, agile regulatory governance, international regulatory co-operation, protection of privacy and transborder flows of personal data, cross-border co-operation in the enforcement of laws protecting privacy, digital government strategies, cryptography policy, internet policy making, digital security, children in the digital environment, and open government;
 
-電子認証、規制政策とガバナンス、アジャイル規制ガバナンス、国際規制協力、プライバシー保護と個人データの国境を越えた流れ、プライバシー保護法の施行における国境を越えた協力、デジタル政府戦略、暗号政策、インターネット政策立案、デジタルセキュリティ、デジタル環境における子供、オープンガバメントの分野においてOECDが開発した基準に鑑み; 
+電子認証、規制政策とガバナンス、アジャイル規制ガバナンス、国際規制協力、プライバシー保護と個人データの国境を越えた流れ、プライバシー保護法の施行における国境を越えた協力、デジタル政府戦略、暗号政策、インターネット政策立案、デジタルセキュリティ、デジタル環境における子供、オープンガバメントの分野においてOECDが開発した基準に**鑑み**; 
 
 **HAVING REGARD** to the technical standards developed by other fora, such as the European Committee for Standardization (CEN), European Telecommunications Standards Institute (ETSI), the International Organization for Standardization (ISO), the International Electrotechnical Commission (IEC), the United States National Institute of Standards and Technology (NIST) and the World Wide Web Consortium (W3C), as well as related work undertaken by the European Commission, the Financial Action Task Force (FATF), the United Nations Commission on International Trade Law (UNCITRAL), and the World Bank;
 
