@@ -7,10 +7,10 @@
 <!-- HAVING REGARD to Article 5 b) of the Convention on the Organisation for Economic Co-operation and Development of 14 December 1960;-->
 1960年12月14日の経済協力開発機構に関する条約第5条b)に鑑み; 
 
-HAVING REGARD to the standards developed by the OECD in the area of electronic authentication, regulatory policy and governance, agile regulatory governance, international regulatory co-operation, protection of privacy and transborder flows of personal data, cross-border co-operation in the enforcement of laws protecting privacy, digital government strategies, cryptography policy, internet policy making, digital security, children in the digital environment, and open government;
+<!--HAVING REGARD to the standards developed by the OECD in the area of electronic authentication, regulatory policy and governance, agile regulatory governance, international regulatory co-operation, protection of privacy and transborder flows of personal data, cross-border co-operation in the enforcement of laws protecting privacy, digital government strategies, cryptography policy, internet policy making, digital security, children in the digital environment, and open government;-->
 電子認証、規制政策とガバナンス、アジャイル規制ガバナンス、国際規制協力、プライバシー保護と個人データの国境を越えた流れ、プライバシー保護法の施行における国境を越えた協力、デジタル政府戦略、暗号政策、インターネット政策立案、デジタルセキュリティ、デジタル環境における子供、オープンガバメントの分野においてOECDが開発した基準に鑑み; 
 
-HAVING REGARD to the technical standards developed by other fora, such as the European Committee for Standardization (CEN), European Telecommunications Standards Institute (ETSI), the International Organization for Standardization (ISO), the International Electrotechnical Commission (IEC), the United States National Institute of Standards and Technology (NIST) and the World Wide Web Consortium (W3C), as well as related work undertaken by the European Commission, the Financial Action Task Force (FATF), the United Nations Commission on International Trade Law (UNCITRAL), and the World Bank;
+<!--HAVING REGARD to the technical standards developed by other fora, such as the European Committee for Standardization (CEN), European Telecommunications Standards Institute (ETSI), the International Organization for Standardization (ISO), the International Electrotechnical Commission (IEC), the United States National Institute of Standards and Technology (NIST) and the World Wide Web Consortium (W3C), as well as related work undertaken by the European Commission, the Financial Action Task Force (FATF), the United Nations Commission on International Trade Law (UNCITRAL), and the World Bank;-->
 欧州標準化委員会（CEN）、欧州電気通信標準化機構（ETSI）、国際標準化機構（ISO）、国際電気標準会議（IEC）、米国国立標準技術研究所（NIST）、World Wide Web Consortium（W3C）、ならびに欧州委員会、金融活動作業部会（FATF）、国連国際貿易法委員会（UNCITRAL）および世界銀行など他の団体において開発される技術標準に鑑み;
 
 RECOGNISING that effective, usable, secure and trusted digital identity systems can enhance privacy, facilitate inclusion and simplify access to a wide range of services, and thereby contribute to social and economic value;
@@ -47,13 +47,13 @@ RECOGNISING the relevance of international development co-operation for supporti
 
 CONSIDERING that the governance of digital identity is a shared responsibility across branches and levels of government, and that therefore this Recommendation is relevant to all of them, in accordance with their national and institutional frameworks, some of which also provide for responsibilities of the private sector.
 
-On the proposal of the Public Governance Committee:
+<!-- On the proposal of the Public Governance Committee:-->
 公共ガバナンス委員会のプロポーザルに関して: 
 
-# I.AGREES that, for the purposes of the present Recommendation, the following definitions are used:
-I. 本勧告の目的上、以下の定義を使用することに合意する：
+<!-- # I.AGREES that, for the purposes of the present Recommendation, the following definitions are used:-->
+# I. 本勧告の目的上、以下の定義を使用することに合意する：
 
-●Attribute refers to a verified feature, quality or characteristic ascribed to a user, for example biometric data, name, date of birth, place of birth, uniqueness identifier (e.g. personal ID number, social security number, company registration number, and address, in electronic form;
+<!--●Attribute refers to a verified feature, quality or characteristic ascribed to a user, for example biometric data, name, date of birth, place of birth, uniqueness identifier (e.g. personal ID number, social security number, company registration number, and address, in electronic form;-->
 * 属性とは、ユーザーに付与された検証済みの特徴、品質または特性をいい、例えば、生体情報、氏名、生年月日、出生地、一意性識別子（個人ID番号、社会保障番号、会社登録番号、住所など、電子形式での情報）をいう；
 
 ●Authentication refers to a function for establishing the validity and assurance of a claimed identity of a user, device or another entity in an information or communications system;
