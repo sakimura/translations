@@ -86,7 +86,8 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
           Developing User-Centred and Inclusive Digital Identity
 </p>
 
-## II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:
+<!-- ## II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:-->
+## II. 支持国は、ユーザーおよびサービスプロバイダのニーズに対応するデジタル ID システムを 設計および実装することを推奨する。この目的のために、支持国は以下を行う：
 
 1. Take into account the domestic context, including digital maturity and existing digital identity developments, when considering the design, implementation or iteration of a digital identity system;
 2. Use service design methodologies to ensure that digital identity systems respond to the needs of users and achieve accessible, ethical, and equitable outcomes, particularly by:
