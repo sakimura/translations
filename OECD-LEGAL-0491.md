@@ -2,7 +2,7 @@
 # デジタルアイデンティティのガバナンスに関する理事会の勧告
 
 <!-- THE COUNCIL,-->
-理事会は、
+## 理事会は、
 
 **HAVING REGARD** to Article 5 b) of the Convention on the Organisation for Economic Co-operation and Development of 14 December 1960;
 
