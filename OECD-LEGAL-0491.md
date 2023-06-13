@@ -80,7 +80,7 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 
 
 <!-- On the proposal of the Public Governance Committee:-->
-公共ガバナンス委員会のプロポーザルに関して: 
+**公共ガバナンス委員会の提案に関して:**
 
 <!-- # I.AGREES that, for the purposes of the present Recommendation, the following definitions are used:-->
 ## I. 本勧告の目的上、以下の定義を使用することに合意する：
@@ -182,7 +182,7 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 
 <p align="center">
           <!-- Strengthening the Governance of Digital Identity -->
-          デジタルアイデンティティのガバナンスの強化
+          **デジタルアイデンティティのガバナンスの強化**
 </p>
 
 ## <!--IV.RECOMMENDS that Adherents take a strategic approach to digital identity and define roles and responsibilities across the digital identity ecosystem. To this effect, Adherents should:-->IV. 所属国はデジタルアイデンティティに対する戦略的アプローチを取り、デジタルアイデンティティエコシステム全体での役割と責任を定義することを推奨する。そのために、所属国は以下の事項を行うのがよい。
