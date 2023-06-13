@@ -215,29 +215,31 @@ RECOGNISING that Members and non-Members having adhered to this Recommendation (
 
 8. デジタルアイデンティティシステムの設計と他の関連する行動においてオープンスタンダードとオープンソースソフトウェアの使用を推進し、ユーザー、サービス提供者、社会が単一のハードウェアまたはソフトウェアベンダーに依存することに関連するリスクを緩和する。
 
-## VI.RECOMMENDS that Adherents align their legal and regulatory frameworks and provide resources to enable interoperability. To this effect, Adherents should:
+<!--## VI.RECOMMENDS that Adherents align their legal and regulatory frameworks and provide resources to enable interoperability. To this effect, Adherents should:-->
+## VI. 所属国は、法的および規制的な枠組みを整合させ、相互運用性を可能にするためのリソースを提供することを推奨する。そのために、所属国は以下の行動を行うのがよい。
 
-1. Ensure that, as appropriate, domestic policies, laws, rules and guidelines for the digital identity system cover issues such as governance, liability, privacy, resilience and security, to encourage and facilitate interoperability and portability in terms of location, technology and sector;
+1. Ensure that, as appropriate, domestic policies, laws, rules and guidelines for the digital identity system cover issues such as governance, liability, privacy, resilience and security, to encourage and facilitate interoperability and portability in terms of location, technology and sector;必要に応じて、デジタルアイデンティティシステムに関する国内の政策、法律、規則、ガイドラインが、場所、技術、セクターにおける相互運用性と移植性を促進し、容易にするための問題（ガバナンス、責任、プライバシー、弾力性、セキュリティなど）をカバーするように確保する。
 
-2. Ensure that digital identity solutions are technology and vendor neutral as long as they comply with all relevant security requirements, and promote the use of internationally recognised technical standards and certification;
+2. Ensure that digital identity solutions are technology and vendor neutral as long as they comply with all relevant security requirements, and promote the use of internationally recognised technical standards and certification;デジタルアイデンティティソリューションがすべての関連するセキュリティ要件を満たす限り、技術とベンダーに中立的であることを確保し、国際的に認識された技術標準と認証の使用を推進する。
 
-3. Provide access to a catalogue of resources intended to support service providers onboard with the digital identity system such as common technical components, documentation or relevant technical support as appropriate;
+3. Provide access to a catalogue of resources intended to support service providers onboard with the digital identity system such as common technical components, documentation or relevant technical support as appropriate;共通の技術コンポーネント、文書、または適切な技術サポートなど、デジタルアイデンティティシステムにサービス提供者が乗っ取ることを支援するためのリソースのカタログへのアクセスを提供する。
 
-4. Support the creation of mechanisms, such as regulatory sandboxes, to provide a secure and controlled environment in which to explore the risks and opportunities of emerging technologies, and/or updates to digital identity systems that might affect interoperability;
+4. Support the creation of mechanisms, such as regulatory sandboxes, to provide a secure and controlled environment in which to explore the risks and opportunities of emerging technologies, and/or updates to digital identity systems that might affect interoperability;レギュラトリーサンドボックスなどのメカニズムの作成を支援し、新たな技術のリスクと機会を探求するための安全で制御された環境を提供する。そして、相互運用性に影響を及ぼす可能性のあるデジタルアイデンティティシステムの更新を探求する。
 
-5. Monitor and report on compliance with existing domestic rules and internationally recognised technical standards across the digital identity ecosystem, as appropriate.
+5. Monitor and report on compliance with existing domestic rules and internationally recognised technical standards across the digital identity ecosystem, as appropriate.必要に応じて、デジタルアイデンティティエコシステム全体での既存の国内規則と国際的に認識された技術標準への準拠を監視し、報告する。
 
 <p align="center">
-Enabling Cross-Border Use of Digital Identity
+<!--Enabling Cross-Border Use of Digital Identity-->
+          国境を超えたデジタルアイデンティティの利用を可能にする
 </p>
 
-## VII.RECOMMENDS that Adherents identify the evolving needs of users and service providers in different cross-border scenarios. To this effect, Adherents should:
+## VII.<!--RECOMMENDS that Adherents identify the evolving needs of users and service providers in different cross-border scenarios. To this effect, Adherents should:-->所属国は、異なる国境を越えたシナリオにおけるユーザーとサービス提供者の進化するニーズを特定するよう推奨する。そのために、所属国は以下の行動を行うのがよい: 
 
-1. Identify the priority use cases for cross-border interoperability of digital identity systems according to their context and the experience of their users by identifying the activities that require the sharing of attributes and/or credentials in a different jurisdiction;
+1. Identify the priority use cases for cross-border interoperability of digital identity systems according to their context and the experience of their users by identifying the activities that require the sharing of attributes and/or credentials in a different jurisdiction;異なる管轄区域での属性と/または資格情報の共有を必要とする活動を特定することにより、ユーザーの経験とその文脈に基づいてデジタルアイデンティティシステムの国境を越えた相互運用性に対する優先使用ケースを特定する。
 
-2. Co-operate internationally to identify the needs of service providers in other jurisdictions for recognising, integrating and trusting a digital identity solution;
+2. Co-operate internationally to identify the needs of service providers in other jurisdictions for recognising, integrating and trusting a digital identity solution;デジタルアイデンティティソリューションを認識し、統合し、信頼するための他の管轄区域におけるサービス提供者のニーズを特定するために国際的に協力する。
 
-3. Identify the risks associated with the cross-border interoperability of digital identity systems and associated use cases, and adopt mitigation measures as necessary.
+3. Identify the risks associated with the cross-border interoperability of digital identity systems and associated use cases, and adopt mitigation measures as necessary.デジタルアイデンティティシステムの国境を越えた相互運用性と関連する使用ケースに関連するリスクを特定し、必要に応じて緩和策を採用する。
 
 ## VIII.RECOMMENDS that Adherents co-operate internationally to establish the basis for trust in other countries’ digital identity systems and issued digital identities. To this effect, Adherents should:
 
