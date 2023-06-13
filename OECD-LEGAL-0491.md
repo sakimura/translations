@@ -84,6 +84,7 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
 
 <p align="center">
           Developing User-Centred and Inclusive Digital Identity
+          ユーザ中心かつ包摂的なデジタルアイデンティティの開発
 </p>
 
 <!-- ## II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:-->
@@ -147,7 +148,10 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
 
 
 
-<p align="center">Strengthening the Governance of Digital Identity</p>
+<p align="center">
+          <!-- Strengthening the Governance of Digital Identity -->
+          デジタルアイデンティティのガバナンスの強化
+</p>
 
 ## IV.RECOMMENDS that Adherents take a strategic approach to digital identity and define roles and responsibilities across the digital identity ecosystem. To this effect, Adherents should:
 
