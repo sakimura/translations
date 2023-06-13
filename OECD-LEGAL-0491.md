@@ -155,17 +155,13 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
 
 ## <!--IV.RECOMMENDS that Adherents take a strategic approach to digital identity and define roles and responsibilities across the digital identity ecosystem. To this effect, Adherents should:-->IV. 所属国はデジタルアイデンティティに対する戦略的アプローチを取り、デジタルアイデンティティエコシステム全体での役割と責任を定義することを推奨する。そのために、所属国は以下の事項を行うのがよい。
 
-1. <!--Set out a long-term vision for realising the benefits and mitigating the risks of digital identity for the public sector and wider economy either in a dedicated strategy or as part of a broader strategy;-->
-専用の戦略またはより広範な戦略の一部として、公共セクターや広範な経済におけるデジタルアイデンティティの利益を実現し、リスクを軽減するための長期的なビジョンを提示する;
+1. <!--Set out a long-term vision for realising the benefits and mitigating the risks of digital identity for the public sector and wider economy either in a dedicated strategy or as part of a broader strategy;-->専用の戦略またはより広範な戦略の一部として、公共セクターや広範な経済におけるデジタルアイデンティティの利益を実現し、リスクを軽減するための長期的なビジョンを提示する;
 
-2. <!--Secure national strategic leadership and delivery oversight and define and communicate domestic roles and responsibilities within the digital identity ecosystem;-->
-国家的な戦略的リーダーシップと実行監督を確保し、デジタルアイデンティティエコシステム内での国内の役割と責任を定義し、伝達する;
+2. <!--Secure national strategic leadership and delivery oversight and define and communicate domestic roles and responsibilities within the digital identity ecosystem;-->国家的な戦略的リーダーシップと実行監督を確保し、デジタルアイデンティティエコシステム内での国内の役割と責任を定義し、伝達する;
 
-3. <!--Encourage co-operation and co-ordination between government agencies and competent authorities at all levels of government, as relevant and applicable;-->
-必要かつ適用可能な場合、全ての政府レベルの政府機関と管轄当局間での協力と調整を促進する;
+3. <!--Encourage co-operation and co-ordination between government agencies and competent authorities at all levels of government, as relevant and applicable;-->必要かつ適用可能な場合、全ての政府レベルの政府機関と管轄当局間での協力と調整を促進する;
 
-4. <!--Take steps to ensure that government agencies, and competent authorities at all levels of government, as well as other relevant actors, as applicable, take responsibility for stewarding, monitoring, and protecting the digital identity ecosystem, including by safeguarding the rights of users, and prioritising inclusion;-->
-全ての政府レベルの政府機関、管轄当局、および適用可能な場合はその他の関連する主体が、ユーザーの権利を保護し、包摂を優先することを含め、デジタルアイデンティティエコシステムの管理、監視、保護の責任を負うようにする措置を講じる;
+4. <!--Take steps to ensure that government agencies, and competent authorities at all levels of government, as well as other relevant actors, as applicable, take responsibility for stewarding, monitoring, and protecting the digital identity ecosystem, including by safeguarding the rights of users, and prioritising inclusion;-->全ての政府レベルの政府機関、管轄当局、および適用可能な場合はその他の関連する主体が、ユーザーの権利を保護し、包摂を優先することを含め、デジタルアイデンティティエコシステムの管理、監視、保護の責任を負うようにする措置を講じる;
 
 5. Promote collaboration between the public and private sectors by supporting the development of a healthy market for digital identity solutions, as appropriate, that encourages innovation and competition and explores the potential value of alternative models and technologies;公共セクターと民間部門間の協力を促進し、イノベーションと競争を奨励し、代替モデルや技術の潜在的な価値を探求するデジタルアイデンティティソリューションの健全な市場の開発を支援する;
 
