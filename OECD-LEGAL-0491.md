@@ -51,7 +51,7 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
 公共ガバナンス委員会のプロポーザルに関して: 
 
 <!-- # I.AGREES that, for the purposes of the present Recommendation, the following definitions are used:-->
-# I. 本勧告の目的上、以下の定義を使用することに合意する：
+## I. 本勧告の目的上、以下の定義を使用することに合意する：
 
 <!--●Attribute refers to a verified feature, quality or characteristic ascribed to a user, for example biometric data, name, date of birth, place of birth, uniqueness identifier (e.g. personal ID number, social security number, company registration number, and address, in electronic form;-->
 * 属性とは、ユーザーに付与された検証済みの特徴、品質または特性をいい、例えば、生体情報、氏名、生年月日、出生地、一意性識別子（個人ID番号、社会保障番号、会社登録番号、住所など、電子形式での情報）をいう；
@@ -82,31 +82,30 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
 
 ●User refers to a natural person or a legal person, or to a natural person representing a natural or legal person. In cross-border scenarios, a user should be understood as a natural or legal person from another jurisdiction.
 
-*** <p style="text-align: center;">Developing User-Centred and Inclusive Digital Identity</p> ***
+<p style="text-align: center;">Developing User-Centred and Inclusive Digital Identity</p>
 
-# II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:
+## II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:
 
-1.Take into account the domestic context, including digital maturity and existing digital identity developments, when considering the design, implementation or iteration of a digital identity system;
+1. Take into account the domestic context, including digital maturity and existing digital identity developments, when considering the design, implementation or iteration of a digital identity system;
+2. Use service design methodologies to ensure that digital identity systems respond to the needs of users and achieve accessible, ethical, and equitable outcomes, particularly by:
 
-2.Use service design methodologies to ensure that digital identity systems respond to the needs of users and achieve accessible, ethical, and equitable outcomes, particularly by:
+    a) identifying the needs of users, service providers, and other affected parties;
 
-a)identifying the needs of users, service providers, and other affected parties;
+    b) considering the end-to-end user experience of the digital identity lifecycle;
 
-b)considering the end-to-end user experience of the digital identity lifecycle;
+    c) measuring operational performance in order to iterate the digital identity system and solutions, as appropriate.
 
-c)measuring operational performance in order to iterate the digital identity system and solutions, as appropriate.
+3. Encourage the development of digital identity solutions that are portable for users in terms of:
 
-3.Encourage the development of digital identity solutions that are portable for users in terms of:
+    a) location, including in-person, remotely, at all levels of government, and across borders;
 
-a)location, including in-person, remotely, at all levels of government, and across borders;
+    b) technology, including availability through the most convenient device, mobile form factors or communication medium and without being constrained by the speed or quality of internet connection;
 
-b)technology, including availability through the most convenient device, mobile form factors or communication medium and without being constrained by the speed or quality of internet connection;
+    c) sector, to allow access to public services as well as the wider economy as appropriate.
 
-c)sector, to allow access to public services as well as the wider economy as appropriate.
+4. Encourage the development of privacy-preserving and consent-based digital identity solutions that give users greater ownership over their attributes and credentials, and the ability to more easily and securely control what attributes and credentials they share, when, and with whom.
 
-4.Encourage the development of privacy-preserving and consent-based digital identity solutions that give users greater ownership over their attributes and credentials, and the ability to more easily and securely control what attributes and credentials they share, when, and with whom.
-
-III.RECOMMENDS that Adherents prioritise inclusion and minimise barriers to access to and the use of digital identity. To this effect, Adherents should:
+## III.RECOMMENDS that Adherents prioritise inclusion and minimise barriers to access to and the use of digital identity. To this effect, Adherents should:
 
 1.Promote accessibility, affordability, usability, and equity across the digital identity lifecycle in order to increase access to a secure and trusted digital identity solution, including by vulnerable groups and minorities in accordance with their needs;
 
@@ -122,7 +121,7 @@ III.RECOMMENDS that Adherents prioritise inclusion and minimise barriers to acce
 
 Strengthening the Governance of Digital Identity
 
-IV.RECOMMENDS that Adherents take a strategic approach to digital identity and define roles and responsibilities across the digital identity ecosystem. To this effect, Adherents should:
+## IV.RECOMMENDS that Adherents take a strategic approach to digital identity and define roles and responsibilities across the digital identity ecosystem. To this effect, Adherents should:
 
 1.Set out a long-term vision for realising the benefits and mitigating the risks of digital identity for the public sector and wider economy either in a dedicated strategy or as part of a broader strategy;
 
@@ -142,7 +141,7 @@ IV.RECOMMENDS that Adherents take a strategic approach to digital identity and d
 
 9.Oversee the digital identity system to adapt to new needs, threats, risks and opportunities.
 
-V.RECOMMENDS that Adherents protect privacy and prioritise security to ensure trust in digital identity systems. To this effect, Adherents should:
+## V.RECOMMENDS that Adherents protect privacy and prioritise security to ensure trust in digital identity systems. To this effect, Adherents should:
 
 1.Recognise security as foundational to the design of trusted digital identity systems and ensure that digital identity solution providers and solutions comply with all relevant requirements, in a manner that is consistent with defined Levels of Assurance (LoA) and/or is consistent with a risk-based approach, to protect users, service providers, and societies, including from possible identity theft or alteration;
 
@@ -160,7 +159,7 @@ V.RECOMMENDS that Adherents protect privacy and prioritise security to ensure tr
 
 8.Promote the use of open standards and open-source software in the design of the digital identity system and other relevant actions to mitigate the risks to users, service providers and societies associated with dependency on any single hardware or software vendor. 
 
-VI.RECOMMENDS that Adherents align their legal and regulatory frameworks and provide resources to enable interoperability. To this effect, Adherents should:
+## VI.RECOMMENDS that Adherents align their legal and regulatory frameworks and provide resources to enable interoperability. To this effect, Adherents should:
 
 1.Ensure that, as appropriate, domestic policies, laws, rules and guidelines for the digital identity system cover issues such as governance, liability, privacy, resilience and security, to encourage and facilitate interoperability and portability in terms of location, technology and sector;
 
@@ -174,7 +173,7 @@ VI.RECOMMENDS that Adherents align their legal and regulatory frameworks and pro
 
 Enabling Cross-Border Use of Digital Identity
 
-VII.RECOMMENDS that Adherents identify the evolving needs of users and service providers in different cross-border scenarios. To this effect, Adherents should:
+## VII.RECOMMENDS that Adherents identify the evolving needs of users and service providers in different cross-border scenarios. To this effect, Adherents should:
 
 1.Identify the priority use cases for cross-border interoperability of digital identity systems according to their context and the experience of their users by identifying the activities that require the sharing of attributes and/or credentials in a different jurisdiction;
 
@@ -182,7 +181,7 @@ VII.RECOMMENDS that Adherents identify the evolving needs of users and service p
 
 3.Identify the risks associated with the cross-border interoperability of digital identity systems and associated use cases, and adopt mitigation measures as necessary.
 
-VIII.RECOMMENDS that Adherents co-operate internationally to establish the basis for trust in other countries’ digital identity systems and issued digital identities. To this effect, Adherents should:
+## VIII.RECOMMENDS that Adherents co-operate internationally to establish the basis for trust in other countries’ digital identity systems and issued digital identities. To this effect, Adherents should:
 
 1.Designate a national point of contact to engage as appropriate and applicable with international counterparts and activities in support of cross-border digital identity;
 
@@ -202,15 +201,15 @@ a)domestically recognised digital identity solutions and associated attributes a
 
 b)digital identity solutions and associated attributes and credentials from other countries to be recognised domestically.
 
-IX.CALLS ON all actors in the digital identity ecosystem to implement or, as appropriate according to their role, support and promote the implementation of this Recommendation.
+## IX.CALLS ON all actors in the digital identity ecosystem to implement or, as appropriate according to their role, support and promote the implementation of this Recommendation.
 
-X.INVITES the Secretary-General to disseminate this Recommendation.
+## X.INVITES the Secretary-General to disseminate this Recommendation.
 
-XI.INVITES Adherents to disseminate this Recommendation at all levels of government.
+## XI.INVITES Adherents to disseminate this Recommendation at all levels of government.
 
-XII.INVITES non-Adherents to take account of and adhere to this Recommendation.
+## XII.INVITES non-Adherents to take account of and adhere to this Recommendation.
 
-XIII.INSTRUCTS the Public Governance Committee to:
+## XIII.INSTRUCTS the Public Governance Committee to:
 
 a)serve as a forum for exchanging information on the implementation of this Recommendation, fostering multi-stakeholder dialogue on user-centred and inclusive digital identity systems, the governance of digital identity systems, and cross-border use of digital identity for accessing public and private sector services;
 
