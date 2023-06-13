@@ -88,34 +88,48 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 <!--●Attribute refers to a verified feature, quality or characteristic ascribed to a user, for example biometric data, name, date of birth, place of birth, uniqueness identifier (e.g. personal ID number, social security number, company registration number, and address, in electronic form;-->
 * 属性とは、ユーザーに付与された検証済みの特徴、品質または特性をいい、例えば、生体情報、氏名、生年月日、出生地、一意性識別子（個人ID番号、社会保障番号、会社登録番号、住所など、電子形式での情報）をいう；
 
-●Authentication refers to a function for establishing the validity and assurance of a claimed identity of a user, device or another entity in an information or communications system;
+* Authentication refers to a function for establishing the validity and assurance of a claimed identity of a user, device or another entity in an information or communications system;
+* 認証とは、情報通信システムにおいて、ユーザー、デバイス、または他のエンティティが主張するアイデンティティの有効性と保証を確立するための機能を指すものである。
 
-●Credential refers to a set of one or more electronically recorded and verifiable assertions about a user made by a credential issuer, for example, a driver’s licence, ID card, permit, or qualification. Some Adherents may refer to or understand the terms Attribute and Credential interchangeably, depending on their context;
+* Credential refers to a set of one or more electronically recorded and verifiable assertions about a user made by a credential issuer, for example, a driver’s licence, ID card, permit, or qualification. Some Adherents may refer to or understand the terms Attribute and Credential interchangeably, depending on their context;
+* クレデンシャル（たとえば運転免許証、IDカード、許可証、資格など） とは、クレデンシャル発行者が作成した、利用者に関する 1 つ以上の電子的に記録され検証可能なアサーションの集合を指す。所属国の中には、文脈に応じて属性とクレデンシャル の用語を互換的に参照または理解する者もいる；
 
-●Credential issuer refers to any entity, public or private, that issues credentials to users;
+* Credential issuer refers to any entity, public or private, that issues credentials to users;
+* クレデンシャル発行者は、公的または民間の、ユーザにクレデンシャルを発行するあらゆるエンティティを指す；
 
-●Digital identity refers to a set of electronically captured and stored attributes and/or credentials that can be used to prove a feature, quality, characteristic, or assertion about a user, and, when required, support the unique identification of that user;
+* Digital identity refers to a set of electronically captured and stored attributes and/or credentials that can be used to prove a feature, quality, characteristic, or assertion about a user, and, when required, support the unique identification of that user;
+* デジタルアイデンティティとは、電子的に捕捉および保存された一連の属性および／またはクレ デンシャルを指し、ユーザーに関する特徴、品質、特性、または主張を証明するために使用でき、 必要な場合はそのユーザーの一意の識別をサポートすることができる；
 
-●Digital identity ecosystem refers to the different actors involved in the digital identity system, such as policymakers, regulators, government supervisory bodies, technical standards organisations, digital identity solution providers, credential issuers, service providers, civil society organisations, and users. The ecosystem may include different domain-specific solutions and their associated actors;
+* Digital identity ecosystem refers to the different actors involved in the digital identity system, such as policymakers, regulators, government supervisory bodies, technical standards organisations, digital identity solution providers, credential issuers, service providers, civil society organisations, and users. The ecosystem may include different domain-specific solutions and their associated actors;
+* デジタルアイデンティティエコシステムとは、政策立案者、規制当局、政府監督機関、技術標準化団体、 デジタルアイデンティティ・ソリューション・プロバイダ、クレデンシャル発行者、サービスプロバイダ、 市民社会組織、およびユーザなど、デジタルアイデンティティ・システムに関わるさまざまなアクターを指す。
 
-●Digital identity lifecycle refers to the series of stages and processes involved in the management of a digital identity from its creation to termination, including identity proofing, registration or enrolment, issuance, use, possible lost or theft, expiration or revocation, and maintenance or repair;
+* Digital identity lifecycle refers to the series of stages and processes involved in the management of a digital identity from its creation to termination, including identity proofing, registration or enrolment, issuance, use, possible lost or theft, expiration or revocation, and maintenance or repair;
+* デジタルアイデンティティライフサイクルとは、デジタルアイデンティティの作成から終了までの 管理に関わる一連の段階およびプロセスのことで、アイデンティティの証明、登録または登録、発行、 使用、紛失または盗難の可能性、有効期限または失効、および保守または修復を含む；
 
-●Digital identity solution refers to a material and/or immaterial unit allowing users to store, retrieve and/or share attributes and/or credentials, and which is used for authentication for an online or offline service;
+* Digital identity solution refers to a material and/or immaterial unit allowing users to store, retrieve and/or share attributes and/or credentials, and which is used for authentication for an online or offline service;
+* デジタル・アイデンティティ・ソリューションとは、ユーザーが属性および／またはクレデンシャ ルを保存、検索、共有することを可能にする物質的および／または非物質的なユニットであり、オン ラインまたはオフライン・サービスの認証に使用される；
 
-●Digital identity solution provider refers to any entity, public or private, that issues digital identity solutions to users;
+* Digital identity solution provider refers to any entity, public or private, that issues digital identity solutions to users;
+* デジタル・アイデンティティ・ソリューション・プロバイダとは、公的または私的に、ユー ザーにデジタル・アイデンティティ・ソリューションを発行するあらゆるエンティティを指す；
 
-●Digital identity system refers to the entirety of the system under which digital identity solutions, credentials and attributes are provided to users and relied upon by service providers, including the policies, regulatory frameworks, trust frameworks, technical standards, and roles and responsibilities;
+* Digital identity system refers to the entirety of the system under which digital identity solutions, credentials and attributes are provided to users and relied upon by service providers, including the policies, regulatory frameworks, trust frameworks, technical standards, and roles and responsibilities;
+* デジタル・アイデンティティ・システムとは、デジタル・アイデンティティ・ソリューション、クレ デンシャルおよび属性がユーザに提供され、サービス・プロバイダによって信頼される システムの全体を指し、政策、規制枠組み、トラストフレームワーク、技術標準、および役割と責 任を含む；
 
-●Level of Assurance (LoA) refers to the extent to which a service provider can be confident in the claimed identity of a user and is determined by the practices employed by the digital identity solution provider in the issuing of a given digital identity solution;
+* Level of Assurance (LoA) refers to the extent to which a service provider can be confident in the claimed identity of a user and is determined by the practices employed by the digital identity solution provider in the issuing of a given digital identity solution;
+* 保証レベル（LoA）とは、サービス・プロバイダがユーザーの主張するアイデンティティに確信 を持てる程度を指し、デジタル ID ソリューション・プロバイダが所定のデジタル ID ソリューションを発行する際に採用する慣行によって決定されるものである；
 
-●Service provider refers to any entity, public or private, that relies on secure and trusted digital identity solutions for user authentication and verification of attributes and/or credentials, in order to provide their service, whether online or offline;
+* Service provider refers to any entity, public or private, that relies on secure and trusted digital identity solutions for user authentication and verification of attributes and/or credentials, in order to provide their service, whether online or offline;
+* サービス・プロバイダとは、オンラインかオフラインかを問わず、サービスを提供するために、 ユーザ認証および属性や 資格証明の検証のために安全で信頼できるデジタル ID ソリューションに依存する、公共 または民間のあらゆるエンティティを指す；
 
-●Trust framework refers to a set of common requirements, including cybersecurity requirements, for digital identity solutions that digital identity solution providers follow for the purpose of facilitating trust within a digital identity ecosystem. The requirements can be divided into different Levels of Assurance (LoA);
+* Trust framework refers to a set of common requirements, including cybersecurity requirements, for digital identity solutions that digital identity solution providers follow for the purpose of facilitating trust within a digital identity ecosystem. The requirements can be divided into different Levels of Assurance (LoA);
+* トラストフレームワークとは、デジタルアイデンティティ・エコシステム内の信頼を促進する目的で、 デジタルアイデンティティ・ソリューション・プロバイダが従う、サイバーセキュリティ要件を含 むデジタルアイデンティティソリューションの一連の共通要件のことである。要件は、異なる保証レベル（LoA）に分けることができる。
 
-●User refers to a natural person or a legal person, or to a natural person representing a natural or legal person. In cross-border scenarios, a user should be understood as a natural or legal person from another jurisdiction.
+* User refers to a natural person or a legal person, or to a natural person representing a natural or legal person. In cross-border scenarios, a user should be understood as a natural or legal person from another jurisdiction.
+* ユーザーとは、自然人または法人、あるいは自然人または法人を代表する自然人を指す。国境を越えたシナリオでは、ユーザーは、他の法域の自然人または法人として理解されるべきである。
 
-<p align="center">
-          Developing User-Centred and Inclusive Digital Identity
+
+<p align="center" font="bold">
+          <!--Developing User-Centred and Inclusive Digital Identity-->
           ユーザ中心かつ包摂的なデジタルアイデンティティの開発
 </p>
 
@@ -296,19 +310,32 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 
 
 ## IX.CALLS ON all actors in the digital identity ecosystem to implement or, as appropriate according to their role, support and promote the implementation of this Recommendation.
+## IX.デジタル ID エコシステムのすべての関係者に対し、この勧告を実施するか、またはその役割に 応じて適宜、この勧告の実施を支援し促進するよう_呼びかける_。
 
 ## X.INVITES the Secretary-General to disseminate this Recommendation.
+## X.事務総長に対し、本勧告を普及させることを_要請する_。
 
 ## XI.INVITES Adherents to disseminate this Recommendation at all levels of government.
+## XI.採用国に対し、この勧告を政府のあらゆるレベルで普及させることを要請する。
 
 ## XII.INVITES non-Adherents to take account of and adhere to this Recommendation.
+## XII.本勧告を考慮し遵守するよう、非採用国に要請する。
 
 ## XIII.INSTRUCTS the Public Governance Committee to:
+## XIII.パブリック・ガバナンス委員会に次の事項を指示する：
 
-a)serve as a forum for exchanging information on the implementation of this Recommendation, fostering multi-stakeholder dialogue on user-centred and inclusive digital identity systems, the governance of digital identity systems, and cross-border use of digital identity for accessing public and private sector services;
+a) serve as a forum for exchanging information on the implementation of this Recommendation, fostering multi-stakeholder dialogue on user-centred and inclusive digital identity systems, the governance of digital identity systems, and cross-border use of digital identity for accessing public and private sector services;
 
-b)monitor activities and emerging trends around digital identity which may impact the implementation of this Recommendation, through relevant data collection, analysis, and dissemination of results to Adherents;
+a) この勧告の実施に関する情報を交換するフォーラムとして機能し、ユーザー中心で包括的な デジタル ID システム、デジタル ID システムのガバナンス、および公共および民間部門のサービスに アクセスするためのデジタル ID の国境を越えた使用に関する複数の利害関係者の対話を促進する；
 
-c)develop the processes, guidance and tools to support the implementation of this Recommendation; and
+b) monitor activities and emerging trends around digital identity which may impact the implementation of this Recommendation, through relevant data collection, analysis, and dissemination of results to Adherents;
 
-d)report to Council on the implementation, dissemination and continued relevance of this Recommendation no later than five years following its adoption and at least every ten years thereafter.
+b) 関連するデータの収集、分析、および結果の被着体への普及を通じて、この勧告の実施に影響する可能性のあるデジタル ID に関する活動および新たな動向を監視する；
+
+c) develop the processes, guidance and tools to support the implementation of this Recommendation; and
+
+c) この勧告の実施を支援するためのプロセス，指針及びツールを開発する。および
+
+d) report to Council on the implementation, dissemination and continued relevance of this Recommendation no later than five years following its adoption and at least every ten years thereafter.
+
+d) 本勧告の採択後5年以上経過し、その後少なくとも10年毎に、本勧告の実施、普及及び関連性の継続について理事会に報告する。
