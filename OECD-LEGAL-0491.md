@@ -130,19 +130,22 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
 4. ユーザーに自分の属性およびクレデンシャルに対するより大きなオーナーシップを与え、どの属性 およびクレデンシャルをいつ、誰と共有するかをより簡単かつ安全に制御できる、プライバシー保 持および同意ベースのデジタル ID ソリューションの開発を奨励する。
 
 
-## III.RECOMMENDS that Adherents prioritise inclusion and minimise barriers to access to and the use of digital identity. To this effect, Adherents should:
+<!--## III. RECOMMENDS that Adherents prioritise inclusion and minimise barriers to access to and the use of digital identity. To this effect, Adherents should:-->
+## III. 採択者は、包摂を優先し、デジタル ID へのアクセスおよびその使用に対する障壁を最小化 することを推奨する。 この目的を達成するために、採択者は以下のことを行うべきである：
+<!--1. Promote accessibility, affordability, usability, and equity across the digital identity lifecycle in order to increase access to a secure and trusted digital identity solution, including by vulnerable groups and minorities in accordance with their needs;-->
+1. アクセス可能性、手頃な価格性、使いやすさ、公平性を促進し、安全かつ信頼できるデジタルアイデンティティソリューションへのアクセスを増やすため、弱者や少数派を含む利用者のニーズに応じて、デジタルアイデンティティライフサイクル全体でアクセスを向上させる。
 
-1. Promote accessibility, affordability, usability, and equity across the digital identity lifecycle in order to increase access to a secure and trusted digital identity solution, including by vulnerable groups and minorities in accordance with their needs;
+2. <!--Take steps to ensure that access to essential services, including those in the public and private sector is not restricted or denied to natural persons who do not want to, or cannot access or use a digital identity solution;-->デジタルアイデンティティソリューションにアクセスまたは利用することを望まない自然人に対して、公共および私的部門を含む必要なサービスへのアクセスが制限されないよう、措置を講じる。
 
-2. Take steps to ensure that access to essential services, including those in the public and private sector is not restricted or denied to natural persons who do not want to, or cannot access or use a digital identity solution;
+3. <!--Facilitate inclusive and collaborative stakeholder engagement throughout the design, development, and implementation of digital identity systems, to promote transparency, accountability, and alignment with user needs and expectations;-->デジタルアイデンティティシステムの設計、開発、実装において包括的かつ協力的な利害関係者の関与を促進し、透明性、説明責任、利用者のニーズと期待に合致するようにするため、包括的なステークホルダーとの協力を図る。
 
-3. Facilitate inclusive and collaborative stakeholder engagement throughout the design, development, and implementation of digital identity systems, to promote transparency, accountability, and alignment with user needs and expectations;
+4. <!--Raise awareness of the benefits and secure uses of digital identity and the way in which the digital identity system protects users while acknowledging risks and demonstrating the mitigation of potential harms;-->リスクがあることを明らかにし潜在的な害を軽減する手段を示しながら、デジタルアイデンティティの利点と安全な使用方法、およびデジタルアイデンティティシステムが利用者を保護する方法へのに関する認識を高める。
 
-4. Raise awareness of the benefits and secure uses of digital identity and the way in which the digital identity system protects users while acknowledging risks and demonstrating the mitigation of potential harms;
+5. <!--Take steps to ensure that support is provided through appropriate channel(s), for those who face challenges in accessing and using digital identity solutions, and identify opportunities to build the skills and capabilities of users;-->デジタルアイデンティティソリューションへのアクセスや使用に課題を抱える利用者に適切な手段を通じてサポートを提供し、利用者のスキルと能力を向上させる機会を特定する。
 
-5. Take steps to ensure that support is provided through appropriate channel(s), for those who face challenges in accessing and using digital identity solutions, and identify opportunities to build the skills and capabilities of users;
+6. <!--Monitor, evaluate and publicly report on the effectiveness of the digital identity system, with a focus on inclusiveness and minimising the barriers to the access and use of digital identity.--> デジタルアイデンティティシステムの効果を監視し、評価し、包括性を重視し、デジタルアイデンティティへのアクセスと使用の障壁を最小限に抑えるため、効果について公開報告を行う。
 
-6. Monitor, evaluate and publicly report on the effectiveness of the digital identity system, with a focus on inclusiveness and minimising the barriers to the access and use of digital identity.
+
 
 <p align="center">Strengthening the Governance of Digital Identity</p>
 
