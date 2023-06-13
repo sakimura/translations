@@ -82,7 +82,9 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
 
 ●User refers to a natural person or a legal person, or to a natural person representing a natural or legal person. In cross-border scenarios, a user should be understood as a natural or legal person from another jurisdiction.
 
-<p style="text-align: center;">Developing User-Centred and Inclusive Digital Identity</p>
+<p align="center">
+          Developing User-Centred and Inclusive Digital Identity
+</p>
 
 ## II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:
 
@@ -107,99 +109,101 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
 
 ## III.RECOMMENDS that Adherents prioritise inclusion and minimise barriers to access to and the use of digital identity. To this effect, Adherents should:
 
-1.Promote accessibility, affordability, usability, and equity across the digital identity lifecycle in order to increase access to a secure and trusted digital identity solution, including by vulnerable groups and minorities in accordance with their needs;
+1. Promote accessibility, affordability, usability, and equity across the digital identity lifecycle in order to increase access to a secure and trusted digital identity solution, including by vulnerable groups and minorities in accordance with their needs;
 
-2.Take steps to ensure that access to essential services, including those in the public and private sector is not restricted or denied to natural persons who do not want to, or cannot access or use a digital identity solution;
+2. Take steps to ensure that access to essential services, including those in the public and private sector is not restricted or denied to natural persons who do not want to, or cannot access or use a digital identity solution;
 
-3.Facilitate inclusive and collaborative stakeholder engagement throughout the design, development, and implementation of digital identity systems, to promote transparency, accountability, and alignment with user needs and expectations;
+3. Facilitate inclusive and collaborative stakeholder engagement throughout the design, development, and implementation of digital identity systems, to promote transparency, accountability, and alignment with user needs and expectations;
 
-4.Raise awareness of the benefits and secure uses of digital identity and the way in which the digital identity system protects users while acknowledging risks and demonstrating the mitigation of potential harms;
+4. Raise awareness of the benefits and secure uses of digital identity and the way in which the digital identity system protects users while acknowledging risks and demonstrating the mitigation of potential harms;
 
-5.Take steps to ensure that support is provided through appropriate channel(s), for those who face challenges in accessing and using digital identity solutions, and identify opportunities to build the skills and capabilities of users;
+5. Take steps to ensure that support is provided through appropriate channel(s), for those who face challenges in accessing and using digital identity solutions, and identify opportunities to build the skills and capabilities of users;
 
-6.Monitor, evaluate and publicly report on the effectiveness of the digital identity system, with a focus on inclusiveness and minimising the barriers to the access and use of digital identity.
+6. Monitor, evaluate and publicly report on the effectiveness of the digital identity system, with a focus on inclusiveness and minimising the barriers to the access and use of digital identity.
 
-Strengthening the Governance of Digital Identity
+<p align="center">Strengthening the Governance of Digital Identity</p>
 
 ## IV.RECOMMENDS that Adherents take a strategic approach to digital identity and define roles and responsibilities across the digital identity ecosystem. To this effect, Adherents should:
 
-1.Set out a long-term vision for realising the benefits and mitigating the risks of digital identity for the public sector and wider economy either in a dedicated strategy or as part of a broader strategy;
+1. Set out a long-term vision for realising the benefits and mitigating the risks of digital identity for the public sector and wider economy either in a dedicated strategy or as part of a broader strategy;
 
-2.Secure national strategic leadership and delivery oversight and define and communicate domestic roles and responsibilities within the digital identity ecosystem;
+2. Secure national strategic leadership and delivery oversight and define and communicate domestic roles and responsibilities within the digital identity ecosystem;
 
-3.Encourage co-operation and co-ordination between government agencies and competent authorities at all levels of government, as relevant and applicable;
+3. Encourage co-operation and co-ordination between government agencies and competent authorities at all levels of government, as relevant and applicable;
 
-4.Take steps to ensure that government agencies, and competent authorities at all levels of government, as well as other relevant actors, as applicable, take responsibility for stewarding, monitoring, and protecting the digital identity ecosystem, including by safeguarding the rights of users, and prioritising inclusion;
+4. Take steps to ensure that government agencies, and competent authorities at all levels of government, as well as other relevant actors, as applicable, take responsibility for stewarding, monitoring, and protecting the digital identity ecosystem, including by safeguarding the rights of users, and prioritising inclusion;
 
-5.Promote collaboration between the public and private sectors by supporting the development of a healthy market for digital identity solutions, as appropriate, that encourages innovation and competition and explores the potential value of alternative models and technologies;
+5. Promote collaboration between the public and private sectors by supporting the development of a healthy market for digital identity solutions, as appropriate, that encourages innovation and competition and explores the potential value of alternative models and technologies;
 
-6.Establish a national or regional trust framework, or where applicable, align with relevant regional trust frameworks, to set out common requirements, including cybersecurity requirements, against different Levels of Assurance (LoA) for digital identity solutions that digital identity solution providers can follow to facilitate trust within the digital identity ecosystem;
+6. Establish a national or regional trust framework, or where applicable, align with relevant regional trust frameworks, to set out common requirements, including cybersecurity requirements, against different Levels of Assurance (LoA) for digital identity solutions that digital identity solution providers can follow to facilitate trust within the digital identity ecosystem;
 
-7.Establish clear responsibilities for the regulation and oversight of digital identity systems, such that the rights of users and affected parties are protected and that adequate and effective mechanisms for dispute resolution, redress and recovery are in place;
+7. Establish clear responsibilities for the regulation and oversight of digital identity systems, such that the rights of users and affected parties are protected and that adequate and effective mechanisms for dispute resolution, redress and recovery are in place;
 
-8.Promote a sustainable and resilient digital identity system by taking into account the environmental impact of technology choices, and the need for ongoing investment to reflect the costs for all relevant actors throughout the digital identity lifecycle;
+8. Promote a sustainable and resilient digital identity system by taking into account the environmental impact of technology choices, and the need for ongoing investment to reflect the costs for all relevant actors throughout the digital identity lifecycle;
 
-9.Oversee the digital identity system to adapt to new needs, threats, risks and opportunities.
+9. Oversee the digital identity system to adapt to new needs, threats, risks and opportunities.
 
 ## V.RECOMMENDS that Adherents protect privacy and prioritise security to ensure trust in digital identity systems. To this effect, Adherents should:
 
-1.Recognise security as foundational to the design of trusted digital identity systems and ensure that digital identity solution providers and solutions comply with all relevant requirements, in a manner that is consistent with defined Levels of Assurance (LoA) and/or is consistent with a risk-based approach, to protect users, service providers, and societies, including from possible identity theft or alteration;
+1. Recognise security as foundational to the design of trusted digital identity systems and ensure that digital identity solution providers and solutions comply with all relevant requirements, in a manner that is consistent with defined Levels of Assurance (LoA) and/or is consistent with a risk-based approach, to protect users, service providers, and societies, including from possible identity theft or alteration;
 
-2.Treat user control, privacy and data protection as fundamental tenets of digital identity systems, and encourage the adoption of privacy-by-design and privacy-by-default approaches that include informed consent, integrity, confidentiality, selective disclosure, purpose specification, as well as collection and use limitations regarding personal data, including by considering the need for specific standards and mechanisms to protect against the misuse of special categories of personal data, including biometric data;
+2. Treat user control, privacy and data protection as fundamental tenets of digital identity systems, and encourage the adoption of privacy-by-design and privacy-by-default approaches that include informed consent, integrity, confidentiality, selective disclosure, purpose specification, as well as collection and use limitations regarding personal data, including by considering the need for specific standards and mechanisms to protect against the misuse of special categories of personal data, including biometric data;
 
-3.Prevent the aggregation of datasets between services or the retention of unnecessary personal data trails being left when users use digital identity solutions to access different services;
+3. Prevent the aggregation of datasets between services or the retention of unnecessary personal data trails being left when users use digital identity solutions to access different services;
 
-4.Enforce accountability obligations under existing data protection and privacy laws;
+4. Enforce accountability obligations under existing data protection and privacy laws;
 
-5.Introduce robust arrangements to ensure that any attributes and credentials shared through a digital identity solution are accurate, complete, kept up-to-date, and relevant;
+5. Introduce robust arrangements to ensure that any attributes and credentials shared through a digital identity solution are accurate, complete, kept up-to-date, and relevant;
 
-6.Identify the specific needs concerning how to safely accommodate and protect children and vulnerable groups and minorities in the design and use of digital identity systems;
+6. Identify the specific needs concerning how to safely accommodate and protect children and vulnerable groups and minorities in the design and use of digital identity systems;
 
-7.Consider taking steps to establish legally recognised mechanisms, as deemed necessary, by which users can use digital identity solutions to mandate someone, or delegate representation rights, to act on their behalf in a manner that is visible to, manageable for, and traceable by, the user;
+7. Consider taking steps to establish legally recognised mechanisms, as deemed necessary, by which users can use digital identity solutions to mandate someone, or delegate representation rights, to act on their behalf in a manner that is visible to, manageable for, and traceable by, the user;
 
-8.Promote the use of open standards and open-source software in the design of the digital identity system and other relevant actions to mitigate the risks to users, service providers and societies associated with dependency on any single hardware or software vendor. 
+8. Promote the use of open standards and open-source software in the design of the digital identity system and other relevant actions to mitigate the risks to users, service providers and societies associated with dependency on any single hardware or software vendor. 
 
 ## VI.RECOMMENDS that Adherents align their legal and regulatory frameworks and provide resources to enable interoperability. To this effect, Adherents should:
 
-1.Ensure that, as appropriate, domestic policies, laws, rules and guidelines for the digital identity system cover issues such as governance, liability, privacy, resilience and security, to encourage and facilitate interoperability and portability in terms of location, technology and sector;
+1. Ensure that, as appropriate, domestic policies, laws, rules and guidelines for the digital identity system cover issues such as governance, liability, privacy, resilience and security, to encourage and facilitate interoperability and portability in terms of location, technology and sector;
 
-2.Ensure that digital identity solutions are technology and vendor neutral as long as they comply with all relevant security requirements, and promote the use of internationally recognised technical standards and certification;
+2. Ensure that digital identity solutions are technology and vendor neutral as long as they comply with all relevant security requirements, and promote the use of internationally recognised technical standards and certification;
 
-3.Provide access to a catalogue of resources intended to support service providers onboard with the digital identity system such as common technical components, documentation or relevant technical support as appropriate;
+3. Provide access to a catalogue of resources intended to support service providers onboard with the digital identity system such as common technical components, documentation or relevant technical support as appropriate;
 
-4.Support the creation of mechanisms, such as regulatory sandboxes, to provide a secure and controlled environment in which to explore the risks and opportunities of emerging technologies, and/or updates to digital identity systems that might affect interoperability;
+4. Support the creation of mechanisms, such as regulatory sandboxes, to provide a secure and controlled environment in which to explore the risks and opportunities of emerging technologies, and/or updates to digital identity systems that might affect interoperability;
 
-5.Monitor and report on compliance with existing domestic rules and internationally recognised technical standards across the digital identity ecosystem, as appropriate.
+5. Monitor and report on compliance with existing domestic rules and internationally recognised technical standards across the digital identity ecosystem, as appropriate.
 
+<p align="center">
 Enabling Cross-Border Use of Digital Identity
+</p>
 
 ## VII.RECOMMENDS that Adherents identify the evolving needs of users and service providers in different cross-border scenarios. To this effect, Adherents should:
 
-1.Identify the priority use cases for cross-border interoperability of digital identity systems according to their context and the experience of their users by identifying the activities that require the sharing of attributes and/or credentials in a different jurisdiction;
+1. Identify the priority use cases for cross-border interoperability of digital identity systems according to their context and the experience of their users by identifying the activities that require the sharing of attributes and/or credentials in a different jurisdiction;
 
-2.Co-operate internationally to identify the needs of service providers in other jurisdictions for recognising, integrating and trusting a digital identity solution;
+2. Co-operate internationally to identify the needs of service providers in other jurisdictions for recognising, integrating and trusting a digital identity solution;
 
-3.Identify the risks associated with the cross-border interoperability of digital identity systems and associated use cases, and adopt mitigation measures as necessary.
+3. Identify the risks associated with the cross-border interoperability of digital identity systems and associated use cases, and adopt mitigation measures as necessary.
 
 ## VIII.RECOMMENDS that Adherents co-operate internationally to establish the basis for trust in other countries’ digital identity systems and issued digital identities. To this effect, Adherents should:
 
-1.Designate a national point of contact to engage as appropriate and applicable with international counterparts and activities in support of cross-border digital identity;
+1. Designate a national point of contact to engage as appropriate and applicable with international counterparts and activities in support of cross-border digital identity;
 
-2.Engage in international regulatory co-operation to enable cross-border interoperability of digital identity systems, such as by assessing and/or mapping the coherence, compatibility or equivalence of existing legal requirements, trust frameworks and technical standards, exploring collaboration through free trade agreements, and identifying opportunities for cross-border regulatory experimentation;
+2. Engage in international regulatory co-operation to enable cross-border interoperability of digital identity systems, such as by assessing and/or mapping the coherence, compatibility or equivalence of existing legal requirements, trust frameworks and technical standards, exploring collaboration through free trade agreements, and identifying opportunities for cross-border regulatory experimentation;
 
-3.Engage in bilateral and multilateral co-operation in collaboration with relevant stakeholders from across the digital identity ecosystem by participating in international technical standards work, exchanging experiences and best practices, and aligning innovation programmes;
+3. Engage in bilateral and multilateral co-operation in collaboration with relevant stakeholders from across the digital identity ecosystem by participating in international technical standards work, exchanging experiences and best practices, and aligning innovation programmes;
 
-4.Ensure that the cross-border interoperability of digital identity is not used to unduly discriminate against foreign users in their access to essential services or commercial transactions;
+4. Ensure that the cross-border interoperability of digital identity is not used to unduly discriminate against foreign users in their access to essential services or commercial transactions;
 
-5.Work towards clarifying the basis for liability related to the use of digital identity in cross-border transactions;
+5. Work towards clarifying the basis for liability related to the use of digital identity in cross-border transactions;
 
-6.For cross-border public services, enable, as appropriate, the matching of identity attributes stored in a particular public sector body abroad with the attributes or information shared about the user through the digital identification process, to ensure matching between the identity and digital identity of the user trying to access the service;
+6. For cross-border public services, enable, as appropriate, the matching of identity attributes stored in a particular public sector body abroad with the attributes or information shared about the user through the digital identification process, to ensure matching between the identity and digital identity of the user trying to access the service;
 
-7.Produce a roadmap scoping out steps that would be needed to enable:
+7. Produce a roadmap scoping out steps that would be needed to enable:
 
-a)domestically recognised digital identity solutions and associated attributes and credentials to be used internationally;
+    a)domestically recognised digital identity solutions and associated attributes and credentials to be used internationally;
 
-b)digital identity solutions and associated attributes and credentials from other countries to be recognised domestically.
+    b)digital identity solutions and associated attributes and credentials from other countries to be recognised domestically.
 
 ## IX.CALLS ON all actors in the digital identity ecosystem to implement or, as appropriate according to their role, support and promote the implementation of this Recommendation.
 
