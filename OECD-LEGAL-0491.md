@@ -232,22 +232,22 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 2. ユーザーコントロール、プライバシー、データ保護をデジタルアイデンティティシステムの基本的な原則として扱い、プライバシーバイデザインとプライバシーバイデフォルトのアプローチを採用するよう推奨する。これには、インフォームドな同意、完全性、機密性、選択的開示、目的の明確化、個人データの収集と使用の制限が含まれる。これには、特定の個人データのカテゴリー、特にバイオメトリックデータの誤用に対する保護を目指すための特定の標準とメカニズムの必要性を考慮することも含まれる。
 
 3. Prevent the aggregation of datasets between services or the retention of unnecessary personal data trails being left when users use digital identity solutions to access different services;
-<br />3. ユーザーがデジタルアイデンティティソリューションを使用してさまざまなサービスにアクセスするときに不要な個人データの軌跡が残ること、またはサービス間でのデータセットの集約を防止する。
+<br />ユーザーがデジタルアイデンティティソリューションを使用してさまざまなサービスにアクセスするときに不要な個人データの軌跡が残ること、またはサービス間でのデータセットの集約を防止する。
 
 4. Enforce accountability obligations under existing data protection and privacy laws;
-<br />4. 既存のデータ保護とプライバシー法の下での責任義務を強制する。
+<br />既存のデータ保護とプライバシー法の下での責任義務を強制する。
 
 5. Introduce robust arrangements to ensure that any attributes and credentials shared through a digital identity solution are accurate, complete, kept up-to-date, and relevant;
-<br />5. デジタルアイデンティティソリューションを通じて共有される任意の属性と認証情報が正確で、完全で、最新で、関連性があることを確保するための堅固な手段を導入する。
+<br />デジタルアイデンティティソリューションを通じて共有される任意の属性と認証情報が正確で、完全で、最新で、関連性があることを確保するための堅固な手段を導入する。
 
 6. Identify the specific needs concerning how to safely accommodate and protect children and vulnerable groups and minorities in the design and use of digital identity systems;
-<br />6. デジタルアイデンティティシステムの設計と使用において、どのようにして安全に子どもや脆弱なグループ、マイノリティを収容し、保護するかについての具体的なニーズを特定する。
+<br />デジタルアイデンティティシステムの設計と使用において、どのようにして安全に子どもや脆弱なグループ、マイノリティを収容し、保護するかについての具体的なニーズを特定する。
 
 7. Consider taking steps to establish legally recognised mechanisms, as deemed necessary, by which users can use digital identity solutions to mandate someone, or delegate representation rights, to act on their behalf in a manner that is visible to, manageable for, and traceable by, the user;
-<br />7. 必要と判断された場合、ユーザーが他人を指名する、または代表権を委任するための法的に認められたメカニズムを設立するための措置を検討する。このメカニズムはユーザーが視認、管理、追跡可能でなければならない。
+<br />必要と判断された場合、ユーザーが他人を指名する、または代表権を委任するための法的に認められたメカニズムを設立するための措置を検討する。このメカニズムはユーザーが視認、管理、追跡可能でなければならない。
 
 8. Promote the use of open standards and open-source software in the design of the digital identity system and other relevant actions to mitigate the risks to users, service providers and societies associated with dependency on any single hardware or software vendor. 
-<br />8. デジタルアイデンティティシステムの設計と他の関連する行動においてオープンスタンダードとオープンソースソフトウェアの使用を推進し、ユーザー、サービス提供者、社会が単一のハードウェアまたはソフトウェアベンダーに依存することに関連するリスクを緩和する。
+<br />デジタルアイデンティティシステムの設計と他の関連する行動においてオープンスタンダードとオープンソースソフトウェアの使用を推進し、ユーザー、サービス提供者、社会が単一のハードウェアまたはソフトウェアベンダーに依存することに関連するリスクを緩和する。
 
 <!--## VI.RECOMMENDS that Adherents align their legal and regulatory frameworks and provide resources to enable interoperability. To this effect, Adherents should:-->
 ## VI. 所属国は、法的および規制的な枠組みを整合させ、相互運用性を可能にするためのリソースを提供することを推奨する。そのために、所属国は以下の行動を行うのがよい。
