@@ -89,7 +89,10 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
 <!-- ## II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:-->
 ## II. 支持国は、ユーザーおよびサービスプロバイダのニーズに対応するデジタル ID システムを 設計および実装することを推奨する。この目的のために、支持国は以下を行う：
 
-1. Take into account the domestic context, including digital maturity and existing digital identity developments, when considering the design, implementation or iteration of a digital identity system;
+<!-- 1. Take into account the domestic context, including digital maturity and existing digital identity developments, when considering the design, implementation or iteration of a digital identity system;-->
+1. デジタル ID システムの設計、実装または反復を検討する際に、デジタル成熟度や既存のデジタル ID 開発を含む国内のコンテキストを考慮する；
+
+<!--
 2. Use service design methodologies to ensure that digital identity systems respond to the needs of users and achieve accessible, ethical, and equitable outcomes, particularly by:
 
     a) identifying the needs of users, service providers, and other affected parties;
@@ -97,7 +100,15 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
     b) considering the end-to-end user experience of the digital identity lifecycle;
 
     c) measuring operational performance in order to iterate the digital identity system and solutions, as appropriate.
+-->
+2. サービス設計手法を使用して、デジタル ID システムがユーザのニーズに応え、特に以下のようにアクセ ス可能で倫理的かつ衡平な結果を達成することを確実にする：
 
+    a) ユーザ、サービス・プロバイダ、およびその他の影響を受ける当事者のニーズを特定する；
+
+    b) デジタル ID ライフサイクルのエンドツーエンドのユーザ・エクスペリエンスを考慮する；
+
+    c) デジタル ID システムおよびソリューションを適宜改善するために、運用実績を測定する。
+<!--
 3. Encourage the development of digital identity solutions that are portable for users in terms of:
 
     a) location, including in-person, remotely, at all levels of government, and across borders;
@@ -105,8 +116,19 @@ CONSIDERING that the governance of digital identity is a shared responsibility a
     b) technology, including availability through the most convenient device, mobile form factors or communication medium and without being constrained by the speed or quality of internet connection;
 
     c) sector, to allow access to public services as well as the wider economy as appropriate.
+-->
+3. 以下の点で、ユーザーにとってポータブルなデジタル ID ソリューションの開発を奨励する：
 
+    a) 場所：対面、遠隔、政府のあらゆるレベル、および国境を越えることを含む；
+
+    b) 技術：最も便利なデバイス、モバイルフォーム ファクター、または通信媒体を通じて利用でき、インターネット接続の速度または質 に制約されることがない；
+
+    c) 分野：公共サービスだけでなく、適宜、より広い経済分野にもアクセスできるようにすること。
+<!--
 4. Encourage the development of privacy-preserving and consent-based digital identity solutions that give users greater ownership over their attributes and credentials, and the ability to more easily and securely control what attributes and credentials they share, when, and with whom.
+-->
+4. ユーザーに自分の属性およびクレデンシャルに対するより大きなオーナーシップを与え、どの属性 およびクレデンシャルをいつ、誰と共有するかをより簡単かつ安全に制御できる、プライバシー保 持および同意ベースのデジタル ID ソリューションの開発を奨励する。
+
 
 ## III.RECOMMENDS that Adherents prioritise inclusion and minimise barriers to access to and the use of digital identity. To this effect, Adherents should:
 
