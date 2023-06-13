@@ -45,8 +45,9 @@ RECOGNISING the relevance of international development co-operation for supporti
 CONSIDERING that the governance of digital identity is a shared responsibility across branches and levels of government, and that therefore this Recommendation is relevant to all of them, in accordance with their national and institutional frameworks, some of which also provide for responsibilities of the private sector.
 
 On the proposal of the Public Governance Committee:
+公共ガバナンス委員会のプロポーザルに関して: 
 
-I.AGREES that, for the purposes of the present Recommendation, the following definitions are used:
+# I.AGREES that, for the purposes of the present Recommendation, the following definitions are used:
 I. 本勧告の目的上、以下の定義を使用することに合意する：
 
 ●Attribute refers to a verified feature, quality or characteristic ascribed to a user, for example biometric data, name, date of birth, place of birth, uniqueness identifier (e.g. personal ID number, social security number, company registration number, and address, in electronic form;
@@ -78,9 +79,9 @@ I. 本勧告の目的上、以下の定義を使用することに合意する�
 
 ●User refers to a natural person or a legal person, or to a natural person representing a natural or legal person. In cross-border scenarios, a user should be understood as a natural or legal person from another jurisdiction.
 
-# Developing User-Centred and Inclusive Digital Identity
+*** <p style="text-align: center;">Developing User-Centred and Inclusive Digital Identity</p> ***
 
-II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:
+# II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:
 
 1.Take into account the domestic context, including digital maturity and existing digital identity developments, when considering the design, implementation or iteration of a digital identity system;
 
