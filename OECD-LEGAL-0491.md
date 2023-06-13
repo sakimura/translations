@@ -209,15 +209,20 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 
 4. <!--Take steps to ensure that government agencies, and competent authorities at all levels of government, as well as other relevant actors, as applicable, take responsibility for stewarding, monitoring, and protecting the digital identity ecosystem, including by safeguarding the rights of users, and prioritising inclusion;-->全ての政府レベルの政府機関、管轄当局、および適用可能な場合はその他の関連する主体が、ユーザーの権利を保護し、包摂を優先することを含め、デジタルアイデンティティエコシステムの管理、監視、保護の責任を負うようにする措置を講じる;
 
-5. Promote collaboration between the public and private sectors by supporting the development of a healthy market for digital identity solutions, as appropriate, that encourages innovation and competition and explores the potential value of alternative models and technologies;公共セクターと民間部門間の協力を促進し、イノベーションと競争を奨励し、代替モデルや技術の潜在的な価値を探求するデジタルアイデンティティソリューションの健全な市場の開発を支援する;
+5. Promote collaboration between the public and private sectors by supporting the development of a healthy market for digital identity solutions, as appropriate, that encourages innovation and competition and explores the potential value of alternative models and technologies;
+<br />公共セクターと民間部門間の協力を促進し、イノベーションと競争を奨励し、代替モデルや技術の潜在的な価値を探求するデジタルアイデンティティソリューションの健全な市場の開発を支援する;
 
-6. Establish a national or regional trust framework, or where applicable, align with relevant regional trust frameworks, to set out common requirements, including cybersecurity requirements, against different Levels of Assurance (LoA) for digital identity solutions that digital identity solution providers can follow to facilitate trust within the digital identity ecosystem;国家または地域の信頼フレームワークを設立し、または適用可能な場合、関連する地域信頼フレームワークに合わせることで、デジタルアイデンティティソリューション提供者がデジタルアイデンティティエコシステム内での信頼を促進するために、サイバーセキュリティ要件を含む共通の要件を設定する;
+6. Establish a national or regional trust framework, or where applicable, align with relevant regional trust frameworks, to set out common requirements, including cybersecurity requirements, against different Levels of Assurance (LoA) for digital identity solutions that digital identity solution providers can follow to facilitate trust within the digital identity ecosystem;
+<br />国家または地域の信頼フレームワークを設立し、または適用可能な場合、関連する地域信頼フレームワークに合わせることで、デジタルアイデンティティソリューション提供者がデジタルアイデンティティエコシステム内での信頼を促進するために、サイバーセキュリティ要件を含む共通の要件を設定する;
 
-7. Establish clear responsibilities for the regulation and oversight of digital identity systems, such that the rights of users and affected parties are protected and that adequate and effective mechanisms for dispute resolution, redress and recovery are in place;ユーザーと影響を受ける当事者の権利が保護され、適切で効果的な紛争解決、救済、復旧のメカニズムが整備されているように、デジタルアイデンティティシステムの規制と監督に対する明確な責任を確立する;
+7. Establish clear responsibilities for the regulation and oversight of digital identity systems, such that the rights of users and affected parties are protected and that adequate and effective mechanisms for dispute resolution, redress and recovery are in place;
+<br />ユーザーと影響を受ける当事者の権利が保護され、適切で効果的な紛争解決、救済、復旧のメカニズムが整備されているように、デジタルアイデンティティシステムの規制と監督に対する明確な責任を確立する;
 
-8. Promote a sustainable and resilient digital identity system by taking into account the environmental impact of technology choices, and the need for ongoing investment to reflect the costs for all relevant actors throughout the digital identity lifecycle;技術選択の環境への影響を考慮し、デジタルアイデンティティのライフサイクル全体で関連するすべての主体のコストを反映するための継続的な投資の必要性を考慮することで、持続可能でレジリエントなデジタルアイデンティティシステムを推進する;
+8. Promote a sustainable and resilient digital identity system by taking into account the environmental impact of technology choices, and the need for ongoing investment to reflect the costs for all relevant actors throughout the digital identity lifecycle;
+<br />技術選択の環境への影響を考慮し、デジタルアイデンティティのライフサイクル全体で関連するすべての主体のコストを反映するための継続的な投資の必要性を考慮することで、持続可能でレジリエントなデジタルアイデンティティシステムを推進する;
 
-9. Oversee the digital identity system to adapt to new needs, threats, risks and opportunities.新たなニーズ、脅威、リスク、機会に対応するためにデジタルアイデンティティシステムを監督する。
+9. Oversee the digital identity system to adapt to new needs, threats, risks and opportunities.
+<br />新たなニーズ、脅威、リスク、機会に対応するためにデジタルアイデンティティシステムを監督する。
 
 
 <!-- ## V.RECOMMENDS that Adherents protect privacy and prioritise security to ensure trust in digital identity systems. To this effect, Adherents should:-->
