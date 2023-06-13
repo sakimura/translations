@@ -4,64 +4,81 @@
 <!-- THE COUNCIL,-->
 理事会は、
 
-<!-- HAVING REGARD to Article 5 b) of the Convention on the Organisation for Economic Co-operation and Development of 14 December 1960;-->
+**HAVING REGARD** to Article 5 b) of the Convention on the Organisation for Economic Co-operation and Development of 14 December 1960;
+
 1960年12月14日の経済協力開発機構に関する条約第5条b)に鑑み; 
 
-<!--HAVING REGARD to the standards developed by the OECD in the area of electronic authentication, regulatory policy and governance, agile regulatory governance, international regulatory co-operation, protection of privacy and transborder flows of personal data, cross-border co-operation in the enforcement of laws protecting privacy, digital government strategies, cryptography policy, internet policy making, digital security, children in the digital environment, and open government;-->
+**HAVING REGARD** to the standards developed by the OECD in the area of electronic authentication, regulatory policy and governance, agile regulatory governance, international regulatory co-operation, protection of privacy and transborder flows of personal data, cross-border co-operation in the enforcement of laws protecting privacy, digital government strategies, cryptography policy, internet policy making, digital security, children in the digital environment, and open government;
+
 電子認証、規制政策とガバナンス、アジャイル規制ガバナンス、国際規制協力、プライバシー保護と個人データの国境を越えた流れ、プライバシー保護法の施行における国境を越えた協力、デジタル政府戦略、暗号政策、インターネット政策立案、デジタルセキュリティ、デジタル環境における子供、オープンガバメントの分野においてOECDが開発した基準に鑑み; 
 
-<!--HAVING REGARD to the technical standards developed by other fora, such as the European Committee for Standardization (CEN), European Telecommunications Standards Institute (ETSI), the International Organization for Standardization (ISO), the International Electrotechnical Commission (IEC), the United States National Institute of Standards and Technology (NIST) and the World Wide Web Consortium (W3C), as well as related work undertaken by the European Commission, the Financial Action Task Force (FATF), the United Nations Commission on International Trade Law (UNCITRAL), and the World Bank;-->
-欧州標準化委員会（CEN）、欧州電気通信標準化機構（ETSI）、国際標準化機構（ISO）、国際電気標準会議（IEC）、米国国立標準技術研究所（NIST）、World Wide Web Consortium（W3C）、ならびに欧州委員会、金融活動作業部会（FATF）、国連国際貿易法委員会（UNCITRAL）および世界銀行など他の団体において開発される技術標準に鑑み;
+**HAVING REGARD** to the technical standards developed by other fora, such as the European Committee for Standardization (CEN), European Telecommunications Standards Institute (ETSI), the International Organization for Standardization (ISO), the International Electrotechnical Commission (IEC), the United States National Institute of Standards and Technology (NIST) and the World Wide Web Consortium (W3C), as well as related work undertaken by the European Commission, the Financial Action Task Force (FATF), the United Nations Commission on International Trade Law (UNCITRAL), and the World Bank;
 
-RECOGNISING that effective, usable, secure and trusted digital identity systems can enhance privacy, facilitate inclusion and simplify access to a wide range of services, and thereby contribute to social and economic value;
-効果的で、使用可能で、安全で、信頼できるデジタル ID システムは、プライバシーを強化 し、包摂を促進し、幅広いサービスへのアクセスを簡素化し、それによって社会的および経済的価 値に貢献することができることを認識し;
+欧州標準化委員会（CEN）、欧州電気通信標準化機構（ETSI）、国際標準化機構（ISO）、国際電気標準会議（IEC）、米国国立標準技術研究所（NIST）、World Wide Web Consortium（W3C）、ならびに欧州委員会、金融活動作業部会（FATF）、国連国際貿易法委員会（UNCITRAL）および世界銀行など他の団体において開発される技術標準に**鑑み**;
 
-RECOGNISING that digital identity can transform the way service providers operate and interact with their users, both in-person and online, by providing an optional alternative to physical credentials as part of a seamless omni-channel experience;
-デジタル ID は、シームレスなオムニチャネル体験の一部として物理的クレデンシャルに代わるオプション を提供することにより、対面およびオンラインの両方で、サービスプロバイダの運営方法およびユーザーと の対話方法を変革できることを認識し; 
+**RECOGNISING** that effective, usable, secure and trusted digital identity systems can enhance privacy, facilitate inclusion and simplify access to a wide range of services, and thereby contribute to social and economic value;
 
-RECOGNISING that the governance, design and implementation of digital identity systems should be rooted in democratic values and respect for human rights;
-デジタル ID システムのガバナンス、設計、および実装は、民主的価値および人権の尊重に根ざした ものでなければならないことを認識し；
+効果的で、使いやすく、安全で、信頼できるデジタル ID システムは、プライバシーを強化し、包摂を促進し、幅広いサービスへのアクセスを簡素化し、それによって社会的および経済的価 値に貢献することができることを**認識し**;
 
-RECOGNISING the need to ensure the accessibility, affordability, usability, and equity of digital identity solutions for all, continually promoting the inclusion of vulnerable groups and minorities;
-デジタルアイデンティティソリューションのすべての人に対するアクセシビリティ、価格が手頃であること、ユーザビリティ、公平性の確保の必要性と、脆弱な集団とマイノリティの包摂を継続的に推進することの重要性を認識し;
+**RECOGNISING** that digital identity can transform the way service providers operate and interact with their users, both in-person and online, by providing an optional alternative to physical credentials as part of a seamless omni-channel experience;
 
-RECOGNISING that the rapidly evolving technology landscape creates the need for governments to regularly evaluate and assess the opportunities and risks of new technologies and architectural paradigms, including cost-benefit analyses as well as environmental, privacy, data protection, ethical and human rights impact assessments, complemented by open and transparent processes for mitigating the harms of any potential unintended consequences;
-急速に進化する技術環境が、新しい技術とアーキテクチャパラダイムの機会とリスクを定期的に評価し評価する必要性を政府に生み出していることを認識し、それには費用便益分析、環境、プライバシー、データ保護、倫理、人権影響評価などが含まれ、潜在的な意図しない結果の害を軽減するためのオープンで透明なプロセスによって補完されるべきであること；
+デジタル ID は、シームレスなオムニチャネル体験の一部として物理的クレデンシャルに代わるオプション を提供することにより、対面およびオンラインの両方で、サービスプロバイダの運営方法およびユーザーと の対話方法を変革できることを**認識し**; 
 
+**RECOGNISING** that the governance, design and implementation of digital identity systems should be rooted in democratic values and respect for human rights;
+
+デジタル ID システムのガバナンス、設計、および実装は、民主的価値および人権の尊重に根ざした ものでなければならないことを**認識し**；
+
+**RECOGNISING** the need to ensure the accessibility, affordability, usability, and equity of digital identity solutions for all, continually promoting the inclusion of vulnerable groups and minorities;
+
+デジタルアイデンティティソリューションのすべての人に対するアクセシビリティ、価格が手頃であること、ユーザビリティ、公平性の確保の必要性と、脆弱な集団とマイノリティの包摂を継続的に推進することの重要性を**認識し**;
+
+**RECOGNISING** that the rapidly evolving technology landscape creates the need for governments to regularly evaluate and assess the opportunities and risks of new technologies and architectural paradigms, including cost-benefit analyses as well as environmental, privacy, data protection, ethical and human rights impact assessments, complemented by open and transparent processes for mitigating the harms of any potential unintended consequences;
+
+急速に進化する技術環境が、費用便益分析、環境、プライバシー、データ保護、倫理、人権影響評価などが含まれ、潜在的な意図しない結果の害を軽減するためのオープンで透明なプロセスによって補完された、アーキテクチャパラダイムの機会と新しい技術のリスクを、定期的に評価する必要性を政府に生み出していることを**認識し**；
 
 RECOGNISING that the deployment of digital identity systems can introduce risks, including fraud, identity theft, and cybercrime, as well as potential threats to human rights, privacy, and data protection;
-デジタルアイデンティティシステムの導入がリスクをもたらす可能性があること、それには詐欺、身元盗用、サイバー犯罪、さらには人権、プライバシー、データ保護に対する潜在的な脅威が含まれることを認識していること；
+
+デジタルアイデンティティシステムの導入がリスクをもたらす可能性があること、それには詐欺、身元盗用、サイバー犯罪、さらには人権、プライバシー、データ保護に対する潜在的な脅威が含まれることを**認識し**;
 
 
-RECOGNISING that both the public and private sector contribute to the success of digital identity systems, and that their roles and relative contributions in the digital identity ecosystem might be different across countries;
-公共部門と民間部門の両方がデジタルアイデンティティシステムの成功に貢献していて、それぞれの役割と相対的な貢献は、国によってデジタルアイデンティティエコシステムで異なる可能性があることを認識していること；
+**RECOGNISING** that both the public and private sector contribute to the success of digital identity systems, and that their roles and relative contributions in the digital identity ecosystem might be different across countries;
+
+公共部門と民間部門の両方がデジタルアイデンティティシステムの成功に貢献していて、それぞれの役割と相対的なてデジタルアイデンティティエコシステムへの貢献は、国によっで異なる可能性があることを**認識し**；
 
 
-RECOGNISING that trust between the different actors of the digital identity ecosystem is critical for the proper functioning of digital identity, and should be underpinned by domestically appropriate policies and solutions, supported by relevant technical standards and technologies;
-デジタルアイデンティティのエコシステムの異なるアクター間の信頼が、デジタルアイデンティティの適切な機能のために重要であり、それは国内で適切な政策とソリューションによって支えられ、関連する技術標準と技術によって支持されるべきであることを認識していること；
+**RECOGNISING** that trust between the different actors of the digital identity ecosystem is critical for the proper functioning of digital identity, and should be underpinned by domestically appropriate policies and solutions, supported by relevant technical standards and technologies;
 
-RECOGNISING that stakeholder engagement and consultation is essential to foster public trust in the digital identity system as a whole;
-ステークホルダーの関与と協議は、デジタルアイデンティティシステム全体への公的な信頼を醸成するために不可欠であることを認識していること；
+デジタルアイデンティティのエコシステムの異なるアクター間の信頼がデジタルアイデンティティの適切な機能のために必須であり、それは関連する技術標準と技術によって支持される国内における適切な政策とソリューションによって支えられるべきであることを**認識し**；
 
-RECOGNISING that Members and non-Members having adhered to this Recommendation (hereafter the “Adherents”) have differing approaches to the development and refinement of their digital identity systems with different roles and contributions from the public and private sectors, varying underlying identity management systems (centralised, federated and decentralised) and links with civil registry systems, legacy infrastructure, levels of digital maturity, existing digital identity adoption, trust between actors of the digital identity ecosystem, and public discourse about the role and nature of digital identity;
+**RECOGNISING** that stakeholder engagement and consultation is essential to foster public trust in the digital identity system as a whole;
 
-この推奨に従っているメンバーと非メンバー（以下、「所属国」）が、公共部門と民間部門からの異なる役割と貢献、異なる基礎となる身元管理システム（中央集権型、連邦型、分散型）、民間登記システムとの関連性、既存のインフラ、デジタルの成熟度
+ステークホルダーの関与と協議は、デジタルアイデンティティシステム全体への公的な信頼を醸成するために不可欠であることを**認識し**；
 
-、既存のデジタルアイデンティティの採用、デジタルアイデンティティエコシステムのアクター間の信頼、デジタルアイデンティティの役割と性質に関する公的な議論という、デジタルアイデンティティシステムの開発と精製に対する異なるアプローチを持っていることを認識していること。
-<!--RECOGNISING that the different approaches taken by Adherents create a need for interoperability of secure and trusted digital identity systems across borders, which calls for international collaboration and the development, adoption, alignment or mapping of the use of technical standards to ensure that all users are always able to access essential services;-->
-所属国が取るさまざまなアプローチが、国境を越えた安全で信頼性のあるデジタルアイデンティティシステムの相互運用性の必要性を生み出し、これが国際的な協力と、全てのユーザーが常に必要なサービスにアクセスできるように技術標準の使用の開発、採用、整合、またはマッピングを求めることを認識し;
+**RECOGNISING** that Members and non-Members having adhered to this Recommendation (hereafter the “Adherents”) have differing approaches to the development and refinement of their digital identity systems with different roles and contributions from the public and private sectors, varying underlying identity management systems (centralised, federated and decentralised) and links with civil registry systems, legacy infrastructure, levels of digital maturity, existing digital identity adoption, trust between actors of the digital identity ecosystem, and public discourse about the role and nature of digital identity;
 
-<!--RECOGNISING the value of trust services such as electronic signatures, electronic time-stamps, and electronic seals to support the usability of digital identity solutions, including across borders, based on technical standards and regulatory frameworks, such as international agreements;-->
-電子署名、電子タイムスタンプ、電子シールなどのトラストサービスが、国際協定などの技術標準や規制の枠組みに基づき、国境を越えたデジタルアイデンティティソリューションの利便性を支援する価値を認識し;
+この勧告に従っている加盟国と非加盟国（以下、「所属国」）が、公共部門と民間部門からの異なる役割と貢献、異なる基礎となるアイデンティティ管理システム（中央集権型、連邦型、分散型）、住民登録システムとの関連性、既存のインフラ、デジタルの成熟度、既存のデジタルアイデンティティの採用、デジタルアイデンティティエコシステムのアクター間の信頼、デジタルアイデンティティの役割と性質に関する公的な議論、デジタルアイデンティティシステムの開発と精製, に対する異なるアプローチを持っていることを**認識し**;
 
-<!--RECOGNISING that while the principles relating to the governance of digital identity for natural and legal persons should be the same, the use cases, user experience, challenges, and mechanisms for implementation will differ, including those relating to privacy and other potential issues;-->
-自然人と法人に対するデジタルアイデンティティのガバナンスに関連する原則は同じであるべきだが、利用ケース、ユーザー体験、課題、実装のメカニズムは異なり、プライバシーやその他の潜在的な問題に関連するものも含まれることを認識し;
+**RECOGNISING** that the different approaches taken by Adherents create a need for interoperability of secure and trusted digital identity systems across borders, which calls for international collaboration and the development, adoption, alignment or mapping of the use of technical standards to ensure that all users are always able to access essential services;
 
-<!--RECOGNISING the relevance of international development co-operation for supporting the governance and funding of digital identity systems in low- and middle-income countries;-->
+**RECOGNISING** that the different approaches taken by Adherents create a need for interoperability of secure and trusted digital identity systems across borders, which calls for international collaboration and the development, adoption, alignment or mapping of the use of technical standards to ensure that all users are always able to access essential services;
+
+所属国が取るさまざまなアプローチが、国境を越えた安全で信頼性のあるデジタルアイデンティティシステムの相互運用性の必要性を生み出し、これが国際的な協力と、全てのユーザーが常に必要なサービスにアクセスできるように技術標準の使用の開発、採用、整合、または対応を求めることを**認識し**;
+
+**RECOGNISING** the value of trust services such as electronic signatures, electronic time-stamps, and electronic seals to support the usability of digital identity solutions, including across borders, based on technical standards and regulatory frameworks, such as international agreements;
+
+電子署名、電子タイムスタンプ、電子シールなどのトラストサービスが、国際協定などの技術標準や規制の枠組みに基づき、国境を越えたデジタルアイデンティティソリューションの利便性を支援する価値を**認識し**;
+
+**RECOGNISING** that while the principles relating to the governance of digital identity for natural and legal persons should be the same, the use cases, user experience, challenges, and mechanisms for implementation will differ, including those relating to privacy and other potential issues;
+
+自然人と法人に対するデジタルアイデンティティのガバナンスに関連する原則は同じであるべきだが、利用ケース、ユーザー体験、課題、実装のメカニズムは異なり、プライバシーやその他の潜在的な問題に関連するものも含まれることを**認識し**;
+
+**RECOGNISING** the relevance of international development co-operation for supporting the governance and funding of digital identity systems in low- and middle-income countries;
+
 低所得・中所得国におけるデジタルアイデンティティシステムのガバナンスと資金提供を支援するための国際開発協力の必要性を認識し;
 
-<!--CONSIDERING that the governance of digital identity is a shared responsibility across branches and levels of government, and that therefore this Recommendation is relevant to all of them, in accordance with their national and institutional frameworks, some of which also provide for responsibilities of the private sector.-->
-デジタルアイデンティティのガバナンスは、政府の各部門およびレベルでの共有責任であり、そのためこの推奨事項はそれぞれの国家や機関の枠組みに従って、全てに関連しており、その中には民間部門の責任を提供するものも含まれることを考慮し。
+**CONSIDERING** that the governance of digital identity is a shared responsibility across branches and levels of government, and that therefore this Recommendation is relevant to all of them, in accordance with their national and institutional frameworks, some of which also provide for responsibilities of the private sector.
+
+デジタルアイデンティティのガバナンスは、政府の各部門およびレベルでの共有責任であり、そのためこの推奨事項はそれぞれの国家や機関の枠組みに従って、全てに関連しており、その中には民間部門の責任を提供するものも含まれることを**考慮し**,
 
 
 <!-- On the proposal of the Public Governance Committee:-->
