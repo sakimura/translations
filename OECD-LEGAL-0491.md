@@ -183,13 +183,13 @@ RECOGNISING that Members and non-Members having adhered to this Recommendation (
 <!-- ## V.RECOMMENDS that Adherents protect privacy and prioritise security to ensure trust in digital identity systems. To this effect, Adherents should:-->
 ## V. 所属国はデジタルアイデンティティシステムでの信頼を保証するために、プライバシーを保護し、セキュリティを優先すべきだと推奨する。そのために、所属国は以下の行動を行うのがよい：
 
-1. Recognise security as foundational to the design of trusted digital identity systems and ensure that digital identity solution providers and solutions comply with all relevant requirements, in a manner that is consistent with defined Levels of Assurance (LoA) and/or is consistent with a risk-based approach, to protect users, service providers, and societies, including from possible identity theft or alteration;
+<!--1. Recognise security as foundational to the design of trusted digital identity systems and ensure that digital identity solution providers and solutions comply with all relevant requirements, in a manner that is consistent with defined Levels of Assurance (LoA) and/or is consistent with a risk-based approach, to protect users, service providers, and societies, including from possible identity theft or alteration;-->
 
-1. 信頼できるデジタルアイデンティティシステムの設計においてセキュリティを基礎と認識し、デジタルアイデンティティソリューション提供者とソリューションがユーザー、サービス提供者、社会を保護し、特に身元盗用や改ざんから保護するために、定義された保証レベル(LoA)および/またはリスクベースのアプローチに一致した方法で、すべての関連する要件を遵守するように確保する。
-
+1. 信頼できるデジタルアイデンティティシステムの設計においてセキュリティが基盤であることを認識し、デジタルアイデンティティソリューション提供者とソリューションがユーザー、サービス提供者、社会を保護し、特に身元盗用や改変から保護するために、定義された保証レベル(LoA)および/またはリスクベースのアプローチに一致した方法で、すべての関連する要件を遵守するように確保する。
+<!--
 2. Treat user control, privacy and data protection as fundamental tenets of digital identity systems, and encourage the adoption of privacy-by-design and privacy-by-default approaches that include informed consent, integrity, confidentiality, selective disclosure, purpose specification, as well as collection and use limitations regarding personal data, including by considering the need for specific standards and mechanisms to protect against the misuse of special categories of personal data, including biometric data;
-
-2. ユーザーコントロール、プライバシー、データ保護をデジタルアイデンティティシステムの基本的な原則として扱い、プライバシーの設計とデフォルトのプライバシーのアプローチを採用するよう推奨する。これには、情報提供に基づく同意、完全性、機密性、選択的開示、目的の明確化、個人データの収集と使用の制限が含まれる。これには、特定の個人データのカテゴリー、特にバイオメトリックデータの誤用に対する保護を目指すための特定の基準とメカニズムの必要性を考慮することも含まれる。
+-->
+2. ユーザーコントロール、プライバシー、データ保護をデジタルアイデンティティシステムの基本的な原則として扱い、プライバシーバイデザインとプライバシーバイデフォルトのアプローチを採用するよう推奨する。これには、インフォームドな同意、完全性、機密性、選択的開示、目的の明確化、個人データの収集と使用の制限が含まれる。これには、特定の個人データのカテゴリー、特にバイオメトリックデータの誤用に対する保護を目指すための特定の標準とメカニズムの必要性を考慮することも含まれる。
 
 3. Prevent the aggregation of datasets between services or the retention of unnecessary personal data trails being left when users use digital identity solutions to access different services;
 
