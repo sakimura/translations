@@ -1,7 +1,10 @@
-THE COUNCIL,
+<!-- # Recommendation of the Council on the Governance of Digital Identity -->
+# デジタルアイデンティティのガバナンスに関する理事会の勧告
+
+<!-- THE COUNCIL,-->
 理事会は、
 
-HAVING REGARD to Article 5 b) of the Convention on the Organisation for Economic Co-operation and Development of 14 December 1960;
+<!-- HAVING REGARD to Article 5 b) of the Convention on the Organisation for Economic Co-operation and Development of 14 December 1960;-->
 1960年12月14日の経済協力開発機構に関する条約第5条b)に鑑み; 
 
 HAVING REGARD to the standards developed by the OECD in the area of electronic authentication, regulatory policy and governance, agile regulatory governance, international regulatory co-operation, protection of privacy and transborder flows of personal data, cross-border co-operation in the enforcement of laws protecting privacy, digital government strategies, cryptography policy, internet policy making, digital security, children in the digital environment, and open government;
