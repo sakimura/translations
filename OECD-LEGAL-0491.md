@@ -26,17 +26,28 @@ RECOGNISING the need to ensure the accessibility, affordability, usability, and 
 デジタルアイデンティティソリューションのすべての人に対するアクセシビリティ、価格が手頃であること、ユーザビリティ、公平性の確保の必要性と、脆弱な集団とマイノリティの包摂を継続的に推進することの重要性を認識し;
 
 RECOGNISING that the rapidly evolving technology landscape creates the need for governments to regularly evaluate and assess the opportunities and risks of new technologies and architectural paradigms, including cost-benefit analyses as well as environmental, privacy, data protection, ethical and human rights impact assessments, complemented by open and transparent processes for mitigating the harms of any potential unintended consequences;
+急速に進化する技術環境が、新しい技術とアーキテクチャパラダイムの機会とリスクを定期的に評価し評価する必要性を政府に生み出していることを認識し、それには費用便益分析、環境、プライバシー、データ保護、倫理、人権影響評価などが含まれ、潜在的な意図しない結果の害を軽減するためのオープンで透明なプロセスによって補完されるべきであること；
+
 
 RECOGNISING that the deployment of digital identity systems can introduce risks, including fraud, identity theft, and cybercrime, as well as potential threats to human rights, privacy, and data protection;
+デジタルアイデンティティシステムの導入がリスクをもたらす可能性があること、それには詐欺、身元盗用、サイバー犯罪、さらには人権、プライバシー、データ保護に対する潜在的な脅威が含まれることを認識していること；
+
 
 RECOGNISING that both the public and private sector contribute to the success of digital identity systems, and that their roles and relative contributions in the digital identity ecosystem might be different across countries;
+公共部門と民間部門の両方がデジタルアイデンティティシステムの成功に貢献していて、それぞれの役割と相対的な貢献は、国によってデジタルアイデンティティエコシステムで異なる可能性があることを認識していること；
+
 
 RECOGNISING that trust between the different actors of the digital identity ecosystem is critical for the proper functioning of digital identity, and should be underpinned by domestically appropriate policies and solutions, supported by relevant technical standards and technologies;
+デジタルアイデンティティのエコシステムの異なるアクター間の信頼が、デジタルアイデンティティの適切な機能のために重要であり、それは国内で適切な政策とソリューションによって支えられ、関連する技術標準と技術によって支持されるべきであることを認識していること；
 
 RECOGNISING that stakeholder engagement and consultation is essential to foster public trust in the digital identity system as a whole;
+ステークホルダーの関与と協議は、デジタルアイデンティティシステム全体への公的な信頼を醸成するために不可欠であることを認識していること；
 
 RECOGNISING that Members and non-Members having adhered to this Recommendation (hereafter the “Adherents”) have differing approaches to the development and refinement of their digital identity systems with different roles and contributions from the public and private sectors, varying underlying identity management systems (centralised, federated and decentralised) and links with civil registry systems, legacy infrastructure, levels of digital maturity, existing digital identity adoption, trust between actors of the digital identity ecosystem, and public discourse about the role and nature of digital identity;
 
+この推奨に従っているメンバーと非メンバー（以下、「所属国」）が、公共部門と民間部門からの異なる役割と貢献、異なる基礎となる身元管理システム（中央集権型、連邦型、分散型）、民間登記システムとの関連性、既存のインフラ、デジタルの成熟度
+
+、既存のデジタルアイデンティティの採用、デジタルアイデンティティエコシステムのアクター間の信頼、デジタルアイデンティティの役割と性質に関する公的な議論という、デジタルアイデンティティシステムの開発と精製に対する異なるアプローチを持っていることを認識していること。
 <!--RECOGNISING that the different approaches taken by Adherents create a need for interoperability of secure and trusted digital identity systems across borders, which calls for international collaboration and the development, adoption, alignment or mapping of the use of technical standards to ensure that all users are always able to access essential services;-->
 所属国が取るさまざまなアプローチが、国境を越えた安全で信頼性のあるデジタルアイデンティティシステムの相互運用性の必要性を生み出し、これが国際的な協力と、全てのユーザーが常に必要なサービスにアクセスできるように技術標準の使用の開発、採用、整合、またはマッピングを求めることを認識し;
 
