@@ -1,7 +1,7 @@
-<!-- # Recommendation of the Council on the Governance of Digital Identity -->
+# Recommendation of the Council on the Governance of Digital Identity 
 # デジタルアイデンティティのガバナンスに関する理事会の勧告
 
-<!-- THE COUNCIL,-->
+THE COUNCIL,
 ## 理事会は、
 
 **HAVING REGARD** to Article 5 b) of the Convention on the Organisation for Economic Co-operation and Development of 14 December 1960;
@@ -79,13 +79,14 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 デジタルアイデンティティのガバナンスは、政府の各部門およびレベルでの共有責任であり、そのためこの推奨事項はそれぞれの国家や機関の枠組みに従って、全てに関連しており、その中には民間部門の責任を提供するものも含まれることを**考慮し**,
 
 
-<!-- On the proposal of the Public Governance Committee:-->
+** On the proposal of the Public Governance Committee:**
+
 **公共ガバナンス委員会の提案に関して:**
 
-<!-- # I.AGREES that, for the purposes of the present Recommendation, the following definitions are used:-->
+## I.AGREES that, for the purposes of the present Recommendation, the following definitions are used:
 ## I. 本勧告の目的上、以下の定義を使用することに合意する：
 
-<!--●Attribute refers to a verified feature, quality or characteristic ascribed to a user, for example biometric data, name, date of birth, place of birth, uniqueness identifier (e.g. personal ID number, social security number, company registration number, and address, in electronic form;-->
+* Attribute refers to a verified feature, quality or characteristic ascribed to a user, for example biometric data, name, date of birth, place of birth, uniqueness identifier (e.g. personal ID number, social security number, company registration number, and address, in electronic form;
 * 属性とは、ユーザーに付与された検証済みの特徴、品質または特性をいい、例えば、生体情報、氏名、生年月日、出生地、一意性識別子（個人ID番号、社会保障番号、会社登録番号、住所など、電子形式での情報）をいう；
 
 * Authentication refers to a function for establishing the validity and assurance of a claimed identity of a user, device or another entity in an information or communications system;
@@ -129,17 +130,17 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 
 
 <p align="center" font="bold">
-          <!--Developing User-Centred and Inclusive Digital Identity-->
+          Developing User-Centred and Inclusive Digital Identity
           ユーザ中心かつ包摂的なデジタルアイデンティティの開発
 </p>
 
-<!-- ## II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:-->
+## II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:
 ## II. 所属国は、ユーザーおよびサービスプロバイダのニーズに対応するデジタル ID システムを 設計および実装することを推奨する。この目的のために、所属国は以下を行う：
 
-<!-- 1. Take into account the domestic context, including digital maturity and existing digital identity developments, when considering the design, implementation or iteration of a digital identity system;-->
+1. Take into account the domestic context, including digital maturity and existing digital identity developments, when considering the design, implementation or iteration of a digital identity system;
 1. デジタル ID システムの設計、実装または反復を検討する際に、デジタル成熟度や既存のデジタル ID 開発を含む国内のコンテキストを考慮する；
 
-<!--
+
 2. Use service design methodologies to ensure that digital identity systems respond to the needs of users and achieve accessible, ethical, and equitable outcomes, particularly by:
 
     a) identifying the needs of users, service providers, and other affected parties;
@@ -147,7 +148,7 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
     b) considering the end-to-end user experience of the digital identity lifecycle;
 
     c) measuring operational performance in order to iterate the digital identity system and solutions, as appropriate.
--->
+
 2. サービス設計手法を使用して、デジタル ID システムがユーザのニーズに応え、特に以下のようにアクセ ス可能で倫理的かつ衡平な結果を達成することを確実にする：
 
     a) ユーザ、サービス・プロバイダ、およびその他の影響を受ける当事者のニーズを特定する；
@@ -155,7 +156,7 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
     b) デジタル ID ライフサイクルのエンドツーエンドのユーザ・エクスペリエンスを考慮する；
 
     c) デジタル ID システムおよびソリューションを適宜改善するために、運用実績を測定する。
-<!--
+
 3. Encourage the development of digital identity solutions that are portable for users in terms of:
 
     a) location, including in-person, remotely, at all levels of government, and across borders;
@@ -163,7 +164,7 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
     b) technology, including availability through the most convenient device, mobile form factors or communication medium and without being constrained by the speed or quality of internet connection;
 
     c) sector, to allow access to public services as well as the wider economy as appropriate.
--->
+
 3. 以下の点で、ユーザーにとってポータブルなデジタル ID ソリューションの開発を奨励する：
 
     a) 場所：対面、遠隔、政府のあらゆるレベル、および国境を越えることを含む；
@@ -171,43 +172,44 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
     b) 技術：最も便利なデバイス、モバイルフォーム ファクター、または通信媒体を通じて利用でき、インターネット接続の速度または質 に制約されることがない；
 
     c) 分野：公共サービスだけでなく、適宜、より広い経済分野にもアクセスできるようにすること。
-<!--
+
 4. Encourage the development of privacy-preserving and consent-based digital identity solutions that give users greater ownership over their attributes and credentials, and the ability to more easily and securely control what attributes and credentials they share, when, and with whom.
--->
+
 4. ユーザーに自分の属性およびクレデンシャルに対するより大きなオーナーシップを与え、どの属性 およびクレデンシャルをいつ、誰と共有するかをより簡単かつ安全に制御できる、プライバシー保 持および同意ベースのデジタル ID ソリューションの開発を奨励する。
 
 
-<!--## III. RECOMMENDS that Adherents prioritise inclusion and minimise barriers to access to and the use of digital identity. To this effect, Adherents should:-->
+## III. RECOMMENDS that Adherents prioritise inclusion and minimise barriers to access to and the use of digital identity. To this effect, Adherents should:
 ## III. 採択者は、包摂を優先し、デジタル ID へのアクセスおよびその使用に対する障壁を最小化 することを推奨する。 この目的を達成するために、採択者は以下のことを行うべきである：
-<!--1. Promote accessibility, affordability, usability, and equity across the digital identity lifecycle in order to increase access to a secure and trusted digital identity solution, including by vulnerable groups and minorities in accordance with their needs;-->
-1. アクセス可能性、手頃な価格性、使いやすさ、公平性を促進し、安全かつ信頼できるデジタルアイデンティティソリューションへのアクセスを増やすため、弱者や少数派を含む利用者のニーズに応じて、デジタルアイデンティティライフサイクル全体でアクセスを向上させる。
+1. Promote accessibility, affordability, usability, and equity across the digital identity lifecycle in order to increase access to a secure and trusted digital identity solution, including by vulnerable groups and minorities in accordance with their needs;
+アクセス可能性、手頃な価格性、使いやすさ、公平性を促進し、安全かつ信頼できるデジタルアイデンティティソリューションへのアクセスを増やすため、弱者や少数派を含む利用者のニーズに応じて、デジタルアイデンティティライフサイクル全体でアクセスを向上させる。
 
-2. <!--Take steps to ensure that access to essential services, including those in the public and private sector is not restricted or denied to natural persons who do not want to, or cannot access or use a digital identity solution;-->デジタルアイデンティティソリューションにアクセスまたは利用することを望まない自然人に対して、公共および私的部門を含む必要なサービスへのアクセスが制限されないよう、措置を講じる。
+2. Take steps to ensure that access to essential services, including those in the public and private sector is not restricted or denied to natural persons who do not want to, or cannot access or use a digital identity solution;デジタルアイデンティティソリューションにアクセスまたは利用することを望まない自然人に対して、公共および私的部門を含む必要なサービスへのアクセスが制限されないよう、措置を講じる。
 
-3. <!--Facilitate inclusive and collaborative stakeholder engagement throughout the design, development, and implementation of digital identity systems, to promote transparency, accountability, and alignment with user needs and expectations;-->デジタルアイデンティティシステムの設計、開発、実装において包括的かつ協力的な利害関係者の関与を促進し、透明性、説明責任、利用者のニーズと期待に合致するようにするため、包括的なステークホルダーとの協力を図る。
+3. Facilitate inclusive and collaborative stakeholder engagement throughout the design, development, and implementation of digital identity systems, to promote transparency, accountability, and alignment with user needs and expectations;デジタルアイデンティティシステムの設計、開発、実装において包括的かつ協力的な利害関係者の関与を促進し、透明性、説明責任、利用者のニーズと期待に合致するようにするため、包括的なステークホルダーとの協力を図る。
 
-4. <!--Raise awareness of the benefits and secure uses of digital identity and the way in which the digital identity system protects users while acknowledging risks and demonstrating the mitigation of potential harms;-->リスクがあることを明らかにし潜在的な害を軽減する手段を示しながら、デジタルアイデンティティの利点と安全な使用方法、およびデジタルアイデンティティシステムが利用者を保護する方法へのに関する認識を高める。
+4. Raise awareness of the benefits and secure uses of digital identity and the way in which the digital identity system protects users while acknowledging risks and demonstrating the mitigation of potential harms;リスクがあることを明らかにし潜在的な害を軽減する手段を示しながら、デジタルアイデンティティの利点と安全な使用方法、およびデジタルアイデンティティシステムが利用者を保護する方法へのに関する認識を高める。
 
-5. <!--Take steps to ensure that support is provided through appropriate channel(s), for those who face challenges in accessing and using digital identity solutions, and identify opportunities to build the skills and capabilities of users;-->デジタルアイデンティティソリューションへのアクセスや使用に課題を抱える利用者に適切な手段を通じてサポートを提供し、利用者のスキルと能力を向上させる機会を特定する。
+5. Take steps to ensure that support is provided through appropriate channel(s), for those who face challenges in accessing and using digital identity solutions, and identify opportunities to build the skills and capabilities of users;デジタルアイデンティティソリューションへのアクセスや使用に課題を抱える利用者に適切な手段を通じてサポートを提供し、利用者のスキルと能力を向上させる機会を特定する。
 
-6. <!--Monitor, evaluate and publicly report on the effectiveness of the digital identity system, with a focus on inclusiveness and minimising the barriers to the access and use of digital identity.--> デジタルアイデンティティシステムの効果を監視し、評価し、包括性を重視し、デジタルアイデンティティへのアクセスと使用の障壁を最小限に抑えるため、効果について公開報告を行う。
+6. Monitor, evaluate and publicly report on the effectiveness of the digital identity system, with a focus on inclusiveness and minimising the barriers to the access and use of digital identity. デジタルアイデンティティシステムの効果を監視し、評価し、包括性を重視し、デジタルアイデンティティへのアクセスと使用の障壁を最小限に抑えるため、効果について公開報告を行う。
 
 
 
 <p align="center">
-          <!-- Strengthening the Governance of Digital Identity -->
+          Strengthening the Governance of Digital Identity 
           **デジタルアイデンティティのガバナンスの強化**
 </p>
 
-## <!--IV.RECOMMENDS that Adherents take a strategic approach to digital identity and define roles and responsibilities across the digital identity ecosystem. To this effect, Adherents should:-->IV. 所属国はデジタルアイデンティティに対する戦略的アプローチを取り、デジタルアイデンティティエコシステム全体での役割と責任を定義することを推奨する。そのために、所属国は以下の事項を行うのがよい。
+## IV.RECOMMENDS that Adherents take a strategic approach to digital identity and define roles and responsibilities across the digital identity ecosystem. To this effect, Adherents should:
+## IV. 所属国はデジタルアイデンティティに対する戦略的アプローチを取り、デジタルアイデンティティエコシステム全体での役割と責任を定義することを推奨する。そのために、所属国は以下の事項を行うのがよい。
 
-1. <!--Set out a long-term vision for realising the benefits and mitigating the risks of digital identity for the public sector and wider economy either in a dedicated strategy or as part of a broader strategy;-->専用の戦略またはより広範な戦略の一部として、公共セクターや広範な経済におけるデジタルアイデンティティの利益を実現し、リスクを軽減するための長期的なビジョンを提示する;
+1. Set out a long-term vision for realising the benefits and mitigating the risks of digital identity for the public sector and wider economy either in a dedicated strategy or as part of a broader strategy;専用の戦略またはより広範な戦略の一部として、公共セクターや広範な経済におけるデジタルアイデンティティの利益を実現し、リスクを軽減するための長期的なビジョンを提示する;
 
-2. <!--Secure national strategic leadership and delivery oversight and define and communicate domestic roles and responsibilities within the digital identity ecosystem;-->国家的な戦略的リーダーシップと実行監督を確保し、デジタルアイデンティティエコシステム内での国内の役割と責任を定義し、伝達する;
+2. Secure national strategic leadership and delivery oversight and define and communicate domestic roles and responsibilities within the digital identity ecosystem;国家的な戦略的リーダーシップと実行監督を確保し、デジタルアイデンティティエコシステム内での国内の役割と責任を定義し、伝達する;
 
-3. <!--Encourage co-operation and co-ordination between government agencies and competent authorities at all levels of government, as relevant and applicable;-->必要かつ適用可能な場合、全ての政府レベルの政府機関と管轄当局間での協力と調整を促進する;
+3. Encourage co-operation and co-ordination between government agencies and competent authorities at all levels of government, as relevant and applicable;必要かつ適用可能な場合、全ての政府レベルの政府機関と管轄当局間での協力と調整を促進する;
 
-4. <!--Take steps to ensure that government agencies, and competent authorities at all levels of government, as well as other relevant actors, as applicable, take responsibility for stewarding, monitoring, and protecting the digital identity ecosystem, including by safeguarding the rights of users, and prioritising inclusion;-->全ての政府レベルの政府機関、管轄当局、および適用可能な場合はその他の関連する主体が、ユーザーの権利を保護し、包摂を優先することを含め、デジタルアイデンティティエコシステムの管理、監視、保護の責任を負うようにする措置を講じる;
+4. Take steps to ensure that government agencies, and competent authorities at all levels of government, as well as other relevant actors, as applicable, take responsibility for stewarding, monitoring, and protecting the digital identity ecosystem, including by safeguarding the rights of users, and prioritising inclusion;全ての政府レベルの政府機関、管轄当局、および適用可能な場合はその他の関連する主体が、ユーザーの権利を保護し、包摂を優先することを含め、デジタルアイデンティティエコシステムの管理、監視、保護の責任を負うようにする措置を講じる;
 
 5. Promote collaboration between the public and private sectors by supporting the development of a healthy market for digital identity solutions, as appropriate, that encourages innovation and competition and explores the potential value of alternative models and technologies;
 <br />公共セクターと民間部門間の協力を促進し、イノベーションと競争を奨励し、代替モデルや技術の潜在的な価値を探求するデジタルアイデンティティソリューションの健全な市場の開発を支援する;
@@ -225,15 +227,15 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 <br />新たなニーズ、脅威、リスク、機会に対応するためにデジタルアイデンティティシステムを監督する。
 
 
-<!-- ## V.RECOMMENDS that Adherents protect privacy and prioritise security to ensure trust in digital identity systems. To this effect, Adherents should:-->
+## V.RECOMMENDS that Adherents protect privacy and prioritise security to ensure trust in digital identity systems. To this effect, Adherents should:
 ## V. 所属国はデジタルアイデンティティシステムでの信頼を保証するために、プライバシーを保護し、セキュリティを優先すべきだと推奨する。そのために、所属国は以下の行動を行うのがよい：
 
-<!--1. Recognise security as foundational to the design of trusted digital identity systems and ensure that digital identity solution providers and solutions comply with all relevant requirements, in a manner that is consistent with defined Levels of Assurance (LoA) and/or is consistent with a risk-based approach, to protect users, service providers, and societies, including from possible identity theft or alteration;-->
+1. Recognise security as foundational to the design of trusted digital identity systems and ensure that digital identity solution providers and solutions comply with all relevant requirements, in a manner that is consistent with defined Levels of Assurance (LoA) and/or is consistent with a risk-based approach, to protect users, service providers, and societies, including from possible identity theft or alteration;
 
 1. 信頼できるデジタルアイデンティティシステムの設計においてセキュリティが基盤であることを認識し、デジタルアイデンティティソリューション提供者とソリューションがユーザー、サービス提供者、社会を保護し、特に身元盗用や改変から保護するために、定義された保証レベル(LoA)および/またはリスクベースのアプローチに一致した方法で、すべての関連する要件を遵守するように確保する。
-<!--
+
 2. Treat user control, privacy and data protection as fundamental tenets of digital identity systems, and encourage the adoption of privacy-by-design and privacy-by-default approaches that include informed consent, integrity, confidentiality, selective disclosure, purpose specification, as well as collection and use limitations regarding personal data, including by considering the need for specific standards and mechanisms to protect against the misuse of special categories of personal data, including biometric data;
--->
+
 2. ユーザーコントロール、プライバシー、データ保護をデジタルアイデンティティシステムの基本的な原則として扱い、プライバシーバイデザインとプライバシーバイデフォルトのアプローチを採用するよう推奨する。これには、インフォームドな同意、完全性、機密性、選択的開示、目的の明確化、個人データの収集と使用の制限が含まれる。これには、特定の個人データのカテゴリー、特にバイオメトリックデータの誤用に対する保護を目指すための特定の標準とメカニズムの必要性を考慮することも含まれる。
 
 3. Prevent the aggregation of datasets between services or the retention of unnecessary personal data trails being left when users use digital identity solutions to access different services;
@@ -254,7 +256,7 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 8. Promote the use of open standards and open-source software in the design of the digital identity system and other relevant actions to mitigate the risks to users, service providers and societies associated with dependency on any single hardware or software vendor. 
 <br />デジタルアイデンティティシステムの設計と他の関連する行動においてオープンスタンダードとオープンソースソフトウェアの使用を推進し、ユーザー、サービス提供者、社会が単一のハードウェアまたはソフトウェアベンダーに依存することに関連するリスクを緩和する。
 
-<!--## VI.RECOMMENDS that Adherents align their legal and regulatory frameworks and provide resources to enable interoperability. To this effect, Adherents should:-->
+## VI.RECOMMENDS that Adherents align their legal and regulatory frameworks and provide resources to enable interoperability. To this effect, Adherents should:
 ## VI. 所属国は、法的および規制的な枠組みを整合させ、相互運用性を可能にするためのリソースを提供することを推奨する。そのために、所属国は以下の行動を行うのがよい。
 
 1. Ensure that, as appropriate, domestic policies, laws, rules and guidelines for the digital identity system cover issues such as governance, liability, privacy, resilience and security, to encourage and facilitate interoperability and portability in terms of location, technology and sector;必要に応じて、デジタルアイデンティティシステムに関する国内の政策、法律、規則、ガイドラインが、場所、技術、セクターにおける相互運用性と移植性を促進し、容易にするための問題（ガバナンス、責任、プライバシー、弾力性、セキュリティなど）をカバーするように確保する。
@@ -268,11 +270,11 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 5. Monitor and report on compliance with existing domestic rules and internationally recognised technical standards across the digital identity ecosystem, as appropriate.必要に応じて、デジタルアイデンティティエコシステム全体での既存の国内規則と国際的に認識された技術標準への準拠を監視し、報告する。
 
 <p align="center">
-<!--Enabling Cross-Border Use of Digital Identity-->
+Enabling Cross-Border Use of Digital Identity
           国境を超えたデジタルアイデンティティの利用を可能にする
 </p>
 
-## VII.<!--RECOMMENDS that Adherents identify the evolving needs of users and service providers in different cross-border scenarios. To this effect, Adherents should:-->所属国は、異なる国境を越えたシナリオにおけるユーザーとサービス提供者の進化するニーズを特定するよう推奨する。そのために、所属国は以下の行動を行うのがよい: 
+## VII.RECOMMENDS that Adherents identify the evolving needs of users and service providers in different cross-border scenarios. To this effect, Adherents should:所属国は、異なる国境を越えたシナリオにおけるユーザーとサービス提供者の進化するニーズを特定するよう推奨する。そのために、所属国は以下の行動を行うのがよい: 
 
 1. Identify the priority use cases for cross-border interoperability of digital identity systems according to their context and the experience of their users by identifying the activities that require the sharing of attributes and/or credentials in a different jurisdiction;異なる管轄区域での属性と/または資格情報の共有を必要とする活動を特定することにより、ユーザーの経験とその文脈に基づいてデジタルアイデンティティシステムの国境を越えた相互運用性に対する優先使用ケースを特定する。
 
@@ -280,7 +282,7 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 
 3. Identify the risks associated with the cross-border interoperability of digital identity systems and associated use cases, and adopt mitigation measures as necessary.デジタルアイデンティティシステムの国境を越えた相互運用性と関連する使用ケースに関連するリスクを特定し、必要に応じて緩和策を採用する。
 
-<!--## VIII.RECOMMENDS that Adherents co-operate internationally to establish the basis for trust in other countries’ digital identity systems and issued digital identities. To this effect, Adherents should:-->
+## VIII.RECOMMENDS that Adherents co-operate internationally to establish the basis for trust in other countries’ digital identity systems and issued digital identities. To this effect, Adherents should:
 ## VIII. 所属国が他国のデジタルアイデンティティシステムおよび発行されたデジタルアイデンティティに対する信頼の基盤を確立するために国際的に協力するよう推奨する。そのために、所属国は以下の行動を行うのがよい：
 
 1. Designate a national point of contact to engage as appropriate and applicable with international counterparts and activities in support of cross-border digital identity;国境を越えたデジタルアイデンティティをサポートするための国際的な対等者や活動と適切かつ適用可能な範囲で関与するための国内の連絡先を指定する。
@@ -295,12 +297,12 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 
 6. For cross-border public services, enable, as appropriate, the matching of identity attributes stored in a particular public sector body abroad with the attributes or information shared about the user through the digital identification process, to ensure matching between the identity and digital identity of the user trying to access the service;国境を越えた公共サービスの場合、適切な場合には、特定の公共部門の海外で保存されたアイデンティティ属性を、デジタル認証プロセスを通じてユーザーに関して共有される属性や情報と照らし合わせることを可能にし、サービスにアクセスしようとするユーザーのアイデンティティとデジタルアイデンティティの一致を確保する
 
-7. <!--Produce a roadmap scoping out steps that would be needed to enable:-->以下を可能にするために必要なステップを概説するロードマップを作成する：
-<!--
+7. Produce a roadmap scoping out steps that would be needed to enable:以下を可能にするために必要なステップを概説するロードマップを作成する：
+
     a)domestically recognised digital identity solutions and associated attributes and credentials to be used internationally;
 
     b)digital identity solutions and associated attributes and credentials from other countries to be recognised domestically.
--->
+
 
     a)国内で認識されたデジタルアイデンティティソリューションおよび関連する属性とクレデンシャルを国際的に使用できるようにする；
 
