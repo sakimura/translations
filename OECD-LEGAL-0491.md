@@ -34,7 +34,7 @@ THE COUNCIL,
 
 **RECOGNISING** that the rapidly evolving technology landscape creates the need for governments to regularly evaluate and assess the opportunities and risks of new technologies and architectural paradigms, including cost-benefit analyses as well as environmental, privacy, data protection, ethical and human rights impact assessments, complemented by open and transparent processes for mitigating the harms of any potential unintended consequences;
 
-急速に進化する技術環境が作り出す政府が定期的に新技術とアーキテクチャパラダイムが、任意の意図しない結果の害を軽減するためのオープンかつ透明なプロセスにより補完された、費用便益分析、環境・プライバシー・データ保護・倫理・人権の影響評価を含む機会とリスク発見・評価を政府が定期的に行う必要性を生むことを**認識し**: 
+急速に進化する技術の環境が、新技術とアーキテクチャパラダイムのもたらす機会とリスクの、費用便益分析や環境、プライバシー、データ保護、倫理、人権への影響評価が含まれ、潜在的な意図しない結果の害を軽減するためのオープンで透明なプロセスで補完された、定期的な検討・評価の必要性を政府に生み出すことを**認識し**:
 
 RECOGNISING that the deployment of digital identity systems can introduce risks, including fraud, identity theft, and cybercrime, as well as potential threats to human rights, privacy, and data protection;
 
