@@ -56,7 +56,7 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 
 **RECOGNISING** that Members and non-Members having adhered to this Recommendation (hereafter the “Adherents”) have differing approaches to the development and refinement of their digital identity systems with different roles and contributions from the public and private sectors, varying underlying identity management systems (centralised, federated and decentralised) and links with civil registry systems, legacy infrastructure, levels of digital maturity, existing digital identity adoption, trust between actors of the digital identity ecosystem, and public discourse about the role and nature of digital identity;
 
-この勧告に従っている加盟国と非加盟国（以下、「所属国」）が、公共部門と民間部門からの異なる役割と貢献、異なる基礎となるアイデンティティ管理システム（中央集権型、連邦型、分散型）、住民登録システムとの関連性、既存のインフラ、デジタルの成熟度、既存のデジタルアイデンティティの採用、デジタルアイデンティティエコシステムのアクター間の信頼、デジタルアイデンティティの役割と性質に関する公的な議論、デジタルアイデンティティシステムの開発と精製, に対する異なるアプローチを持っていることを**認識し**;
+この勧告に従っている加盟国と非加盟国（以下、「所属国」）が、公共部門と民間部門からの異なる役割と貢献、異なる基礎となるアイデンティティ管理システム（集中型、連邦型、分散型）、住民登録システムとの関連性、既存のインフラ、デジタルの成熟度、既存のデジタルアイデンティティの採用、デジタルアイデンティティエコシステムのアクター間の信頼、デジタルアイデンティティの役割と性質に関する公的な議論、デジタルアイデンティティシステムの開発と精製, に対する異なるアプローチを持っていることを**認識し**;
 
 **RECOGNISING** that the different approaches taken by Adherents create a need for interoperability of secure and trusted digital identity systems across borders, which calls for international collaboration and the development, adoption, alignment or mapping of the use of technical standards to ensure that all users are always able to access essential services;
 
