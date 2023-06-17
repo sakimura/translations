@@ -99,7 +99,7 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 * クレデンシャル発行者は、公的または民間の、ユーザにクレデンシャルを発行するあらゆるエンティティを指す；
 
 * Digital identity refers to a set of electronically captured and stored attributes and/or credentials that can be used to prove a feature, quality, characteristic, or assertion about a user, and, when required, support the unique identification of that user;
-* デジタルアイデンティティとは、電子的に捕捉および保存された一連の属性および／またはクレ デンシャルを指し、ユーザーに関する特徴、品質、特性、または主張を証明するために使用でき、 必要な場合はそのユーザーの一意の識別をサポートすることができる；
+* デジタルアイデンティティとは、ユーザーに関する特徴、品質、特性、または主張を証明するために使用でき、 必要な場合はそのユーザーの一意の識別をサポートすることができる、電子的に捕捉および保存された一連の属性および／またはクレ デンシャルを指す；
 
 * Digital identity ecosystem refers to the different actors involved in the digital identity system, such as policymakers, regulators, government supervisory bodies, technical standards organisations, digital identity solution providers, credential issuers, service providers, civil society organisations, and users. The ecosystem may include different domain-specific solutions and their associated actors;
 * デジタルアイデンティティエコシステムとは、政策立案者、規制当局、政府監督機関、技術標準化団体、 デジタルアイデンティティ・ソリューション・プロバイダ、クレデンシャル発行者、サービスプロバイダ、 市民社会組織、およびユーザなど、デジタルアイデンティティ・システムに関わるさまざまなアクターを指す。
