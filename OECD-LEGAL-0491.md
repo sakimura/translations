@@ -18,15 +18,15 @@ THE COUNCIL,
 
 **RECOGNISING** that effective, usable, secure and trusted digital identity systems can enhance privacy, facilitate inclusion and simplify access to a wide range of services, and thereby contribute to social and economic value;
 
-効果的で、使いやすく、安全で、信頼できるデジタル ID システムは、プライバシーを強化し、包摂を促進し、幅広いサービスへのアクセスを簡素化し、それによって社会的および経済的価 値に貢献することができることを**認識し**;
+効果的で、使いやすく、安全で、信頼できるデジタルアイデンティティ・システムは、プライバシーを強化し、包摂を促進し、幅広いサービスへのアクセスを簡素化し、それによって社会的および経済的価 値に貢献することができることを**認識し**;
 
 **RECOGNISING** that digital identity can transform the way service providers operate and interact with their users, both in-person and online, by providing an optional alternative to physical credentials as part of a seamless omni-channel experience;
 
-デジタル ID は、シームレスなオムニチャネル体験の一部として物理的クレデンシャルに代わるオプション を提供することにより、対面およびオンラインの両方で、サービスプロバイダの運営方法およびユーザーと の対話方法を変革できることを**認識し**; 
+デジタルアイデンティティ は、シームレスなオムニチャネル体験の一部として物理的クレデンシャルに代わるオプション を提供することにより、対面およびオンラインの両方で、サービスプロバイダの運営方法およびユーザーと の対話方法を変革できることを**認識し**; 
 
 **RECOGNISING** that the governance, design and implementation of digital identity systems should be rooted in democratic values and respect for human rights;
 
-デジタル ID システムのガバナンス、設計、および実装は、民主的価値および人権の尊重に根ざした ものでなければならないことを**認識し**；
+デジタルアイデンティティ・システムのガバナンス、設計、および実装は、民主的価値および人権の尊重に根ざした ものでなければならないことを**認識し**；
 
 **RECOGNISING** the need to ensure the accessibility, affordability, usability, and equity of digital identity solutions for all, continually promoting the inclusion of vulnerable groups and minorities;
 
@@ -117,10 +117,10 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 * デジタル・アイデンティティ・システムとは、デジタル・アイデンティティ・ソリューション、クレ デンシャルおよび属性がユーザに提供され、サービス・プロバイダによって信頼される システムの全体を指し、政策、規制枠組み、トラストフレームワーク、技術標準、および役割と責 任を含む；
 
 * Level of Assurance (LoA) refers to the extent to which a service provider can be confident in the claimed identity of a user and is determined by the practices employed by the digital identity solution provider in the issuing of a given digital identity solution;
-* 保証レベル（LoA）とは、サービス・プロバイダがユーザーの主張するアイデンティティに確信 を持てる程度を指し、デジタル ID ソリューション・プロバイダが所定のデジタル ID ソリューションを発行する際に採用する慣行によって決定されるものである；
+* 保証レベル（LoA）とは、サービス・プロバイダがユーザーの主張するアイデンティティに確信 を持てる程度を指し、デジタルアイデンティティ ソリューション・プロバイダが所定のデジタルアイデンティティ ソリューションを発行する際に採用する慣行によって決定されるものである；
 
 * Service provider refers to any entity, public or private, that relies on secure and trusted digital identity solutions for user authentication and verification of attributes and/or credentials, in order to provide their service, whether online or offline;
-* サービス・プロバイダとは、オンラインかオフラインかを問わず、サービスを提供するために、 ユーザ認証および属性や 資格証明の検証のために安全で信頼できるデジタル ID ソリューションに依存する、公共 または民間のあらゆるエンティティを指す；
+* サービス・プロバイダとは、オンラインかオフラインかを問わず、サービスを提供するために、 ユーザ認証および属性や 資格証明の検証のために安全で信頼できるデジタルアイデンティティ ソリューションに依存する、公共 または民間のあらゆるエンティティを指す；
 
 * Trust framework refers to a set of common requirements, including cybersecurity requirements, for digital identity solutions that digital identity solution providers follow for the purpose of facilitating trust within a digital identity ecosystem. The requirements can be divided into different Levels of Assurance (LoA);
 * トラストフレームワークとは、デジタルアイデンティティ・エコシステム内の信頼を促進する目的で、 デジタルアイデンティティ・ソリューション・プロバイダが従う、サイバーセキュリティ要件を含 むデジタルアイデンティティソリューションの一連の共通要件のことである。要件は、異なる保証レベル（LoA）に分けることができる。
@@ -135,10 +135,10 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 </p>
 
 ## II.RECOMMENDS that Adherents design and implement digital identity systems that respond to the needs of users and service providers. To this effect, Adherents should:
-## II. 所属国は、ユーザーおよびサービスプロバイダのニーズに対応するデジタル ID システムを 設計および実装することを推奨する。この目的のために、所属国は以下を行う：
+## II. 所属国は、ユーザーおよびサービスプロバイダのニーズに対応するデジタルアイデンティティ・システムを 設計および実装することを推奨する。この目的のために、所属国は以下を行う：
 
 1. Take into account the domestic context, including digital maturity and existing digital identity developments, when considering the design, implementation or iteration of a digital identity system;
-1. デジタル ID システムの設計、実装または反復を検討する際に、デジタル成熟度や既存のデジタル ID 開発を含む国内のコンテキストを考慮する；
+1. デジタルアイデンティティ・システムの設計、実装または反復を検討する際に、デジタル成熟度や既存のデジタルアイデンティティ 開発を含む国内のコンテキストを考慮する；
 
 
 2. Use service design methodologies to ensure that digital identity systems respond to the needs of users and achieve accessible, ethical, and equitable outcomes, particularly by:
@@ -149,13 +149,13 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 
     c) measuring operational performance in order to iterate the digital identity system and solutions, as appropriate.
 
-2. サービス設計手法を使用して、デジタル ID システムがユーザのニーズに応え、特に以下のようにアクセ ス可能で倫理的かつ衡平な結果を達成することを確実にする：
+2. サービス設計手法を使用して、デジタルアイデンティティ・システムがユーザのニーズに応え、特に以下のようにアクセ ス可能で倫理的かつ衡平な結果を達成することを確実にする：
 
     a) ユーザ、サービス・プロバイダ、およびその他の影響を受ける当事者のニーズを特定する；
 
-    b) デジタル ID ライフサイクルのエンドツーエンドのユーザ・エクスペリエンスを考慮する；
+    b) デジタルアイデンティティ ライフサイクルのエンドツーエンドのユーザ・エクスペリエンスを考慮する；
 
-    c) デジタル ID システムおよびソリューションを適宜改善するために、運用実績を測定する。
+    c) デジタルアイデンティティ・システムおよびソリューションを適宜改善するために、運用実績を測定する。
 
 3. Encourage the development of digital identity solutions that are portable for users in terms of:
 
@@ -165,7 +165,7 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 
     c) sector, to allow access to public services as well as the wider economy as appropriate.
 
-3. 以下の点で、ユーザーにとってポータブルなデジタル ID ソリューションの開発を奨励する：
+3. 以下の点で、ユーザーにとってポータブルなデジタルアイデンティティ ソリューションの開発を奨励する：
 
     a) 場所：対面、遠隔、政府のあらゆるレベル、および国境を越えることを含む；
 
@@ -175,11 +175,11 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 
 4. Encourage the development of privacy-preserving and consent-based digital identity solutions that give users greater ownership over their attributes and credentials, and the ability to more easily and securely control what attributes and credentials they share, when, and with whom.
 
-4. ユーザーに自分の属性およびクレデンシャルに対するより大きなオーナーシップを与え、どの属性 およびクレデンシャルをいつ、誰と共有するかをより簡単かつ安全に制御できる、プライバシー保 持および同意ベースのデジタル ID ソリューションの開発を奨励する。
+4. ユーザーに自分の属性およびクレデンシャルに対するより大きなオーナーシップを与え、どの属性 およびクレデンシャルをいつ、誰と共有するかをより簡単かつ安全に制御できる、プライバシー保 持および同意ベースのデジタルアイデンティティ ソリューションの開発を奨励する。
 
 
 ## III. RECOMMENDS that Adherents prioritise inclusion and minimise barriers to access to and the use of digital identity. To this effect, Adherents should:
-## III. 採択者は、包摂を優先し、デジタル ID へのアクセスおよびその使用に対する障壁を最小化 することを推奨する。 この目的を達成するために、採択者は以下のことを行うべきである：
+## III. 採択者は、包摂を優先し、デジタルアイデンティティ へのアクセスおよびその使用に対する障壁を最小化 することを推奨する。 この目的を達成するために、採択者は以下のことを行うべきである：
 1. Promote accessibility, affordability, usability, and equity across the digital identity lifecycle in order to increase access to a secure and trusted digital identity solution, including by vulnerable groups and minorities in accordance with their needs;
 アクセス可能性、手頃な価格性、使いやすさ、公平性を促進し、安全かつ信頼できるデジタルアイデンティティソリューションへのアクセスを増やすため、弱者や少数派を含む利用者のニーズに応じて、デジタルアイデンティティライフサイクル全体でアクセスを向上させる。
 
@@ -311,7 +311,7 @@ Enabling Cross-Border Use of Digital Identity
 
 
 ## IX.CALLS ON all actors in the digital identity ecosystem to implement or, as appropriate according to their role, support and promote the implementation of this Recommendation.
-## IX.デジタル ID エコシステムのすべての関係者に対し、この勧告を実施するか、またはその役割に 応じて適宜、この勧告の実施を支援し促進するよう_呼びかける_。
+## IX.デジタルアイデンティティ エコシステムのすべての関係者に対し、この勧告を実施するか、またはその役割に 応じて適宜、この勧告の実施を支援し促進するよう_呼びかける_。
 
 ## X.INVITES the Secretary-General to disseminate this Recommendation.
 ## X.事務総長に対し、本勧告を普及させることを_要請する_。
@@ -327,11 +327,11 @@ Enabling Cross-Border Use of Digital Identity
 
 a) serve as a forum for exchanging information on the implementation of this Recommendation, fostering multi-stakeholder dialogue on user-centred and inclusive digital identity systems, the governance of digital identity systems, and cross-border use of digital identity for accessing public and private sector services;
 
-a) この勧告の実施に関する情報を交換するフォーラムとして機能し、ユーザー中心で包括的な デジタル ID システム、デジタル ID システムのガバナンス、および公共および民間部門のサービスに アクセスするためのデジタル ID の国境を越えた使用に関する複数の利害関係者の対話を促進する；
+a) この勧告の実施に関する情報を交換するフォーラムとして機能し、ユーザー中心で包括的な デジタルアイデンティティ・システム、デジタルアイデンティティ・システムのガバナンス、および公共および民間部門のサービスに アクセスするためのデジタルアイデンティティ の国境を越えた使用に関する複数の利害関係者の対話を促進する；
 
 b) monitor activities and emerging trends around digital identity which may impact the implementation of this Recommendation, through relevant data collection, analysis, and dissemination of results to Adherents;
 
-b) 関連するデータの収集、分析、および結果の被着体への普及を通じて、この勧告の実施に影響する可能性のあるデジタル ID に関する活動および新たな動向を監視する；
+b) 関連するデータの収集、分析、および結果の被着体への普及を通じて、この勧告の実施に影響する可能性のあるデジタルアイデンティティ に関する活動および新たな動向を監視する；
 
 c) develop the processes, guidance and tools to support the implementation of this Recommendation; and
 
