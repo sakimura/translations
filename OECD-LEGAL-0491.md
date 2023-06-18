@@ -149,7 +149,7 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 
     c) measuring operational performance in order to iterate the digital identity system and solutions, as appropriate.
 
-2. サービス設計手法を使用して、デジタルアイデンティティ・システムがユーザのニーズに応え、特に以下のようにアクセ ス可能で倫理的かつ衡平な結果を達成することを確実にする：
+2. サービス設計手法を使用して、デジタルアイデンティティ・システムがユーザのニーズに応え、特に以下のようにアクセ ス可能で倫理的かつ公平な結果を達成することを確実にする：
 
     a) ユーザ、サービス・プロバイダ、およびその他の影響を受ける当事者のニーズを特定する；
 
