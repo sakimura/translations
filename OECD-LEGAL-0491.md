@@ -276,11 +276,11 @@ Enabling Cross-Border Use of Digital Identity
 
 ## VII.RECOMMENDS that Adherents identify the evolving needs of users and service providers in different cross-border scenarios. To this effect, Adherents should:所属国は、異なる国境を越えたシナリオにおけるユーザーとサービス提供者の進化するニーズを特定するよう推奨する。そのために、所属国は以下の行動を行うのがよい: 
 
-1. Identify the priority use cases for cross-border interoperability of digital identity systems according to their context and the experience of their users by identifying the activities that require the sharing of attributes and/or credentials in a different jurisdiction;異なる管轄区域での属性と/または資格情報の共有を必要とする活動を特定することにより、ユーザーの経験とその文脈に基づいてデジタルアイデンティティシステムの国境を越えた相互運用性に対する優先使用ケースを特定する。
+1. Identify the priority use cases for cross-border interoperability of digital identity systems according to their context and the experience of their users by identifying the activities that require the sharing of attributes and/or credentials in a different jurisdiction;異なる管轄区域での属性と/または資格情報の共有を必要とする活動を特定することにより、ユーザーの経験とその文脈に基づいてデジタルアイデンティティシステムの国境を越えた相互運用性に対する優先ユースケースを特定する。
 
 2. Co-operate internationally to identify the needs of service providers in other jurisdictions for recognising, integrating and trusting a digital identity solution;デジタルアイデンティティソリューションを認識し、統合し、信頼するための他の管轄区域におけるサービス提供者のニーズを特定するために国際的に協力する。
 
-3. Identify the risks associated with the cross-border interoperability of digital identity systems and associated use cases, and adopt mitigation measures as necessary.デジタルアイデンティティシステムの国境を越えた相互運用性と関連する使用ケースに関連するリスクを特定し、必要に応じて緩和策を採用する。
+3. Identify the risks associated with the cross-border interoperability of digital identity systems and associated use cases, and adopt mitigation measures as necessary.デジタルアイデンティティシステムの国境を越えた相互運用性と関連するユースケースに関連するリスクを特定し、必要に応じて緩和策を採用する。
 
 ## VIII.RECOMMENDS that Adherents co-operate internationally to establish the basis for trust in other countries’ digital identity systems and issued digital identities. To this effect, Adherents should:
 ## VIII. 所属国が他国のデジタルアイデンティティシステムおよび発行されたデジタルアイデンティティに対する信頼の基盤を確立するために国際的に協力するよう推奨する。そのために、所属国は以下の行動を行うのがよい：
