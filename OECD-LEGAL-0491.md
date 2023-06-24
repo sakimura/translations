@@ -138,7 +138,7 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
 ## II. 所属国は、ユーザーおよびサービスプロバイダのニーズに対応するデジタルアイデンティティ・システムを 設計および実装することを推奨する。この目的のために、所属国は以下を行う：
 
 1. Take into account the domestic context, including digital maturity and existing digital identity developments, when considering the design, implementation or iteration of a digital identity system;
-1. デジタルアイデンティティ・システムの設計、実装または反復を検討する際に、デジタル成熟度や既存のデジタルアイデンティティ 開発を含む国内のコンテキストを考慮する；
+1. デジタルアイデンティティ・システムの設計、実装または反復を検討する際に、デジタル成熟度や既存のデジタルアイデンティティ開発状況を含む国内のコンテキストを考慮する；
 
 
 2. Use service design methodologies to ensure that digital identity systems respond to the needs of users and achieve accessible, ethical, and equitable outcomes, particularly by:
@@ -174,8 +174,7 @@ RECOGNISING that the deployment of digital identity systems can introduce risks,
     c) 分野：公共サービスだけでなく、適宜、より広い経済分野にもアクセスできるようにすること。
 
 4. Encourage the development of privacy-preserving and consent-based digital identity solutions that give users greater ownership over their attributes and credentials, and the ability to more easily and securely control what attributes and credentials they share, when, and with whom.
-
-4. ユーザーに自分の属性およびクレデンシャルに対するより大きなオーナーシップを与え、どの属性 およびクレデンシャルをいつ、誰と共有するかをより簡単かつ安全に制御できる、プライバシー保 持および同意ベースのデジタルアイデンティティ ソリューションの開発を奨励する。
+<br />ユーザーに自分の属性およびクレデンシャルに対するより大きな管理能力と責任（ownership)を与え、どの属性およびクレデンシャルをいつ、誰と共有するかをより簡単かつ安全に制御できる、プライバシー保 持および同意ベースのデジタルアイデンティティ ソリューションの開発を奨励する。
 
 
 ## III. RECOMMENDS that Adherents prioritise inclusion and minimise barriers to access to and the use of digital identity. To this effect, Adherents should:
