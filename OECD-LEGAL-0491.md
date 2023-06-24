@@ -285,7 +285,7 @@ Enabling Cross-Border Use of Digital Identity
 ## VIII.RECOMMENDS that Adherents co-operate internationally to establish the basis for trust in other countries’ digital identity systems and issued digital identities. To this effect, Adherents should:
 ## VIII. 所属国が他国のデジタルアイデンティティシステムおよび発行されたデジタルアイデンティティに対する信頼の基盤を確立するために国際的に協力するよう推奨する。そのために、所属国は以下の行動を行うのがよい：
 
-1. Designate a national point of contact to engage as appropriate and applicable with international counterparts and activities in support of cross-border digital identity;国境を越えたデジタルアイデンティティをサポートするための国際的な対等者や活動と適切かつ適用可能な範囲で関与するための国内の連絡先を指定する。
+1. Designate a national point of contact to engage as appropriate and applicable with international counterparts and activities in support of cross-border digital identity;<br />国境を越えたデジタルアイデンティティの支援のため、適切かつ適用可能な場合に国際的なカウンターパートや活動と連携するための国内の連絡先を指定する。。
 
 2. Engage in international regulatory co-operation to enable cross-border interoperability of digital identity systems, such as by assessing and/or mapping the coherence, compatibility or equivalence of existing legal requirements, trust frameworks and technical standards, exploring collaboration through free trade agreements, and identifying opportunities for cross-border regulatory experimentation;既存の法的要件、信頼の枠組み、技術標準の整合性、互換性、相当性を評価および/またはマッピングし、自由貿易協定を通じての協力を探る、国境を越えた規制実験の機会を特定するなど、デジタルアイデンティティシステムの国境を越えた相互運用性を可能にするために国際的な規制協力に従事する。
 
